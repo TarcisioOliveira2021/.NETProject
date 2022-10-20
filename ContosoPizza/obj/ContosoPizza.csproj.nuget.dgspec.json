@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tarcisio.veloso\\Desktop\\ContosoPizza\\ContosoPizza.csproj": {}
+    "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\ContosoPizza\\ContosoPizza.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tarcisio.veloso\\Desktop\\ContosoPizza\\ContosoPizza.csproj": {
+    "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\ContosoPizza\\ContosoPizza.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tarcisio.veloso\\Desktop\\ContosoPizza\\ContosoPizza.csproj",
+        "projectUniqueName": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\ContosoPizza\\ContosoPizza.csproj",
         "projectName": "ContosoPizza",
-        "projectPath": "C:\\Users\\Tarcisio.veloso\\Desktop\\ContosoPizza\\ContosoPizza.csproj",
+        "projectPath": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\ContosoPizza\\ContosoPizza.csproj",
         "packagesPath": "C:\\Users\\Tarcisio.veloso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tarcisio.veloso\\Desktop\\ContosoPizza\\obj\\",
+        "outputPath": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\ContosoPizza\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tarcisio.veloso\\AppData\\Roaming\\NuGet\\NuGet.Config",
