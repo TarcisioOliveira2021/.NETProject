@@ -1,0 +1,17 @@
+C:\Users\Tarcisio.veloso\source\repos\ConsumoDeApiTeste\ConsumoDeApiTeste\obj\Debug\net6.0\ConsumoDeApiTeste.csproj.AssemblyReference.cache
+C:\Users\Tarcisio.veloso\source\repos\ConsumoDeApiTeste\ConsumoDeApiTeste\obj\Debug\net6.0\ConsumoDeApiTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarcisio.veloso\source\repos\ConsumoDeApiTeste\ConsumoDeApiTeste\obj\Debug\net6.0\ConsumoDeApiTeste.AssemblyInfoInputs.cache
+C:\Users\Tarcisio.veloso\source\repos\ConsumoDeApiTeste\ConsumoDeApiTeste\obj\Debug\net6.0\ConsumoDeApiTeste.AssemblyInfo.cs
+C:\Users\Tarcisio.veloso\source\repos\ConsumoDeApiTeste\ConsumoDeApiTeste\obj\Debug\net6.0\ConsumoDeApiTeste.csproj.CoreCompileInputs.cache
+C:\Users\Tarcisio.veloso\source\repos\ConsumoDeApiTeste\ConsumoDeApiTeste\bin\Debug\net6.0\ConsumoDeApiTeste.exe
+C:\Users\Tarcisio.veloso\source\repos\ConsumoDeApiTeste\ConsumoDeApiTeste\bin\Debug\net6.0\ConsumoDeApiTeste.deps.json
+C:\Users\Tarcisio.veloso\source\repos\ConsumoDeApiTeste\ConsumoDeApiTeste\bin\Debug\net6.0\ConsumoDeApiTeste.runtimeconfig.json
+C:\Users\Tarcisio.veloso\source\repos\ConsumoDeApiTeste\ConsumoDeApiTeste\bin\Debug\net6.0\ConsumoDeApiTeste.dll
+C:\Users\Tarcisio.veloso\source\repos\ConsumoDeApiTeste\ConsumoDeApiTeste\bin\Debug\net6.0\ConsumoDeApiTeste.pdb
+C:\Users\Tarcisio.veloso\source\repos\ConsumoDeApiTeste\ConsumoDeApiTeste\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Tarcisio.veloso\source\repos\ConsumoDeApiTeste\ConsumoDeApiTeste\obj\Debug\net6.0\ConsumoDeApiTeste.csproj.CopyComplete
+C:\Users\Tarcisio.veloso\source\repos\ConsumoDeApiTeste\ConsumoDeApiTeste\obj\Debug\net6.0\ConsumoDeApiTeste.dll
+C:\Users\Tarcisio.veloso\source\repos\ConsumoDeApiTeste\ConsumoDeApiTeste\obj\Debug\net6.0\refint\ConsumoDeApiTeste.dll
+C:\Users\Tarcisio.veloso\source\repos\ConsumoDeApiTeste\ConsumoDeApiTeste\obj\Debug\net6.0\ConsumoDeApiTeste.pdb
+C:\Users\Tarcisio.veloso\source\repos\ConsumoDeApiTeste\ConsumoDeApiTeste\obj\Debug\net6.0\ConsumoDeApiTeste.genruntimeconfig.cache
+C:\Users\Tarcisio.veloso\source\repos\ConsumoDeApiTeste\ConsumoDeApiTeste\obj\Debug\net6.0\ref\ConsumoDeApiTeste.dll
