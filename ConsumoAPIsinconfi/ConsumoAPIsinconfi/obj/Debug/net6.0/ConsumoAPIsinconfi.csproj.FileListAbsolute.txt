@@ -1,0 +1,17 @@
+C:\Users\Tarcisio.veloso\source\repos\ConsumoAPIsinconfi\ConsumoAPIsinconfi\bin\Debug\net6.0\ConsumoAPIsinconfi.exe
+C:\Users\Tarcisio.veloso\source\repos\ConsumoAPIsinconfi\ConsumoAPIsinconfi\bin\Debug\net6.0\ConsumoAPIsinconfi.deps.json
+C:\Users\Tarcisio.veloso\source\repos\ConsumoAPIsinconfi\ConsumoAPIsinconfi\bin\Debug\net6.0\ConsumoAPIsinconfi.runtimeconfig.json
+C:\Users\Tarcisio.veloso\source\repos\ConsumoAPIsinconfi\ConsumoAPIsinconfi\bin\Debug\net6.0\ConsumoAPIsinconfi.dll
+C:\Users\Tarcisio.veloso\source\repos\ConsumoAPIsinconfi\ConsumoAPIsinconfi\bin\Debug\net6.0\ConsumoAPIsinconfi.pdb
+C:\Users\Tarcisio.veloso\source\repos\ConsumoAPIsinconfi\ConsumoAPIsinconfi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Tarcisio.veloso\source\repos\ConsumoAPIsinconfi\ConsumoAPIsinconfi\obj\Debug\net6.0\ConsumoAPIsinconfi.csproj.AssemblyReference.cache
+C:\Users\Tarcisio.veloso\source\repos\ConsumoAPIsinconfi\ConsumoAPIsinconfi\obj\Debug\net6.0\ConsumoAPIsinconfi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarcisio.veloso\source\repos\ConsumoAPIsinconfi\ConsumoAPIsinconfi\obj\Debug\net6.0\ConsumoAPIsinconfi.AssemblyInfoInputs.cache
+C:\Users\Tarcisio.veloso\source\repos\ConsumoAPIsinconfi\ConsumoAPIsinconfi\obj\Debug\net6.0\ConsumoAPIsinconfi.AssemblyInfo.cs
+C:\Users\Tarcisio.veloso\source\repos\ConsumoAPIsinconfi\ConsumoAPIsinconfi\obj\Debug\net6.0\ConsumoAPIsinconfi.csproj.CoreCompileInputs.cache
+C:\Users\Tarcisio.veloso\source\repos\ConsumoAPIsinconfi\ConsumoAPIsinconfi\obj\Debug\net6.0\ConsumoAPIsinconfi.csproj.CopyComplete
+C:\Users\Tarcisio.veloso\source\repos\ConsumoAPIsinconfi\ConsumoAPIsinconfi\obj\Debug\net6.0\ConsumoAPIsinconfi.dll
+C:\Users\Tarcisio.veloso\source\repos\ConsumoAPIsinconfi\ConsumoAPIsinconfi\obj\Debug\net6.0\refint\ConsumoAPIsinconfi.dll
+C:\Users\Tarcisio.veloso\source\repos\ConsumoAPIsinconfi\ConsumoAPIsinconfi\obj\Debug\net6.0\ConsumoAPIsinconfi.pdb
+C:\Users\Tarcisio.veloso\source\repos\ConsumoAPIsinconfi\ConsumoAPIsinconfi\obj\Debug\net6.0\ConsumoAPIsinconfi.genruntimeconfig.cache
+C:\Users\Tarcisio.veloso\source\repos\ConsumoAPIsinconfi\ConsumoAPIsinconfi\obj\Debug\net6.0\ref\ConsumoAPIsinconfi.dll

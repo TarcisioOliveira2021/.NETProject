@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9+WzPOjvuQkjJ5NW1eNx8d6EZS/3wYHrACkfVkCQcgQ+q2b8WVdwC/RkzaVvHDBGXakQf++pcON/aQNW2e/0MQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tarcisio.veloso\\source\\repos\\ConsumoAPIsinconfi\\ConsumoAPIsinconfi\\ConsumoAPIsinconfi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tarcisio.veloso\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

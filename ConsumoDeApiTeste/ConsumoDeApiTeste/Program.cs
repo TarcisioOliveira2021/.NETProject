@@ -9,19 +9,7 @@ namespace ConsumoDeApiTeste {
             Listar();
         }
 
-        public static void Listar()
-        {
-            HttpClient client = new HttpClient();
-            var response = client.GetStringAsync("https://apidatalake.tesouro.gov.br/ords/siconfi/tt/anexos-relatorios");
-            response.Wait();
-            var resp = JsonConvert.DeserializeObject<Anexo[]>(response.Result).ToList();
-            
-
-        }
-
-        /*
-         * 
-         * public static void Listar()
+         public static void Listar()
             {
              string urlApi = "https://jsonplaceholder.typicode.com/users";
             try
@@ -35,11 +23,14 @@ namespace ConsumoDeApiTeste {
 
                     foreach(var user in resp)
                     {
+                        Console.WriteLine("=====================");
                         Console.WriteLine(user.id);
                         Console.WriteLine(user.name);
                         Console.WriteLine(user.username);
                         Console.WriteLine(user.email);
                         Console.WriteLine(user.address);
+                        Console.WriteLine("=====================");
+                        Console.WriteLine();
                     }
                 }
             }
@@ -48,10 +39,7 @@ namespace ConsumoDeApiTeste {
                 throw;
             }
             }
-         * 
-         * 
-         * https://www.newtonsoft.com/json/help/html/DeserializeCollection.htm
-         */
+       
 
     }
 }
