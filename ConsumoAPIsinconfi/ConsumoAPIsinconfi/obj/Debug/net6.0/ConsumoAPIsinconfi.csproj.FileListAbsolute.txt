@@ -15,3 +15,20 @@ C:\Users\Tarcisio.veloso\source\repos\ConsumoAPIsinconfi\ConsumoAPIsinconfi\obj\
 C:\Users\Tarcisio.veloso\source\repos\ConsumoAPIsinconfi\ConsumoAPIsinconfi\obj\Debug\net6.0\ConsumoAPIsinconfi.pdb
 C:\Users\Tarcisio.veloso\source\repos\ConsumoAPIsinconfi\ConsumoAPIsinconfi\obj\Debug\net6.0\ConsumoAPIsinconfi.genruntimeconfig.cache
 C:\Users\Tarcisio.veloso\source\repos\ConsumoAPIsinconfi\ConsumoAPIsinconfi\obj\Debug\net6.0\ref\ConsumoAPIsinconfi.dll
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\ConsumoAPIsinconfi\ConsumoAPIsinconfi\obj\Debug\net6.0\ConsumoAPIsinconfi.dll
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\ConsumoAPIsinconfi\ConsumoAPIsinconfi\obj\Debug\net6.0\refint\ConsumoAPIsinconfi.dll
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\ConsumoAPIsinconfi\ConsumoAPIsinconfi\obj\Debug\net6.0\ConsumoAPIsinconfi.pdb
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\ConsumoAPIsinconfi\ConsumoAPIsinconfi\bin\Debug\net6.0\ConsumoAPIsinconfi.exe
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\ConsumoAPIsinconfi\ConsumoAPIsinconfi\bin\Debug\net6.0\ConsumoAPIsinconfi.deps.json
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\ConsumoAPIsinconfi\ConsumoAPIsinconfi\bin\Debug\net6.0\ConsumoAPIsinconfi.runtimeconfig.json
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\ConsumoAPIsinconfi\ConsumoAPIsinconfi\bin\Debug\net6.0\ConsumoAPIsinconfi.dll
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\ConsumoAPIsinconfi\ConsumoAPIsinconfi\bin\Debug\net6.0\ConsumoAPIsinconfi.pdb
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\ConsumoAPIsinconfi\ConsumoAPIsinconfi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\ConsumoAPIsinconfi\ConsumoAPIsinconfi\obj\Debug\net6.0\ConsumoAPIsinconfi.csproj.AssemblyReference.cache
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\ConsumoAPIsinconfi\ConsumoAPIsinconfi\obj\Debug\net6.0\ConsumoAPIsinconfi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\ConsumoAPIsinconfi\ConsumoAPIsinconfi\obj\Debug\net6.0\ConsumoAPIsinconfi.AssemblyInfoInputs.cache
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\ConsumoAPIsinconfi\ConsumoAPIsinconfi\obj\Debug\net6.0\ConsumoAPIsinconfi.AssemblyInfo.cs
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\ConsumoAPIsinconfi\ConsumoAPIsinconfi\obj\Debug\net6.0\ConsumoAPIsinconfi.csproj.CoreCompileInputs.cache
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\ConsumoAPIsinconfi\ConsumoAPIsinconfi\obj\Debug\net6.0\ConsumoAPIsinconfi.csproj.CopyComplete
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\ConsumoAPIsinconfi\ConsumoAPIsinconfi\obj\Debug\net6.0\ConsumoAPIsinconfi.genruntimeconfig.cache
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\ConsumoAPIsinconfi\ConsumoAPIsinconfi\obj\Debug\net6.0\ref\ConsumoAPIsinconfi.dll
