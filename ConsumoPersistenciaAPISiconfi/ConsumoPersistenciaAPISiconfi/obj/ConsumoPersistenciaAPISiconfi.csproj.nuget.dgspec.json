@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\nxzer\\source\\repos\\ConsumoPersistenciaAPISiconfi\\ConsumoPersistenciaAPISiconfi\\ConsumoPersistenciaAPISiconfi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\nxzer\\source\\repos\\ConsumoPersistenciaAPISiconfi\\ConsumoPersistenciaAPISiconfi\\ConsumoPersistenciaAPISiconfi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nxzer\\source\\repos\\ConsumoPersistenciaAPISiconfi\\ConsumoPersistenciaAPISiconfi\\ConsumoPersistenciaAPISiconfi.csproj",
+        "projectName": "ConsumoPersistenciaAPISiconfi",
+        "projectPath": "C:\\Users\\nxzer\\source\\repos\\ConsumoPersistenciaAPISiconfi\\ConsumoPersistenciaAPISiconfi\\ConsumoPersistenciaAPISiconfi.csproj",
+        "packagesPath": "C:\\Users\\nxzer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nxzer\\source\\repos\\ConsumoPersistenciaAPISiconfi\\ConsumoPersistenciaAPISiconfi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nxzer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

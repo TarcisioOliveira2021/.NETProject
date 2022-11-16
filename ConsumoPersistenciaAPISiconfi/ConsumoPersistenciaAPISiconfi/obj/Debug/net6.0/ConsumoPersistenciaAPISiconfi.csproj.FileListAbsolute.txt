@@ -1,0 +1,17 @@
+C:\Users\nxzer\source\repos\ConsumoPersistenciaAPISiconfi\ConsumoPersistenciaAPISiconfi\bin\Debug\net6.0\ConsumoPersistenciaAPISiconfi.exe
+C:\Users\nxzer\source\repos\ConsumoPersistenciaAPISiconfi\ConsumoPersistenciaAPISiconfi\bin\Debug\net6.0\ConsumoPersistenciaAPISiconfi.deps.json
+C:\Users\nxzer\source\repos\ConsumoPersistenciaAPISiconfi\ConsumoPersistenciaAPISiconfi\bin\Debug\net6.0\ConsumoPersistenciaAPISiconfi.runtimeconfig.json
+C:\Users\nxzer\source\repos\ConsumoPersistenciaAPISiconfi\ConsumoPersistenciaAPISiconfi\bin\Debug\net6.0\ConsumoPersistenciaAPISiconfi.dll
+C:\Users\nxzer\source\repos\ConsumoPersistenciaAPISiconfi\ConsumoPersistenciaAPISiconfi\bin\Debug\net6.0\ConsumoPersistenciaAPISiconfi.pdb
+C:\Users\nxzer\source\repos\ConsumoPersistenciaAPISiconfi\ConsumoPersistenciaAPISiconfi\obj\Debug\net6.0\ConsumoPersistenciaAPISiconfi.csproj.AssemblyReference.cache
+C:\Users\nxzer\source\repos\ConsumoPersistenciaAPISiconfi\ConsumoPersistenciaAPISiconfi\obj\Debug\net6.0\ConsumoPersistenciaAPISiconfi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nxzer\source\repos\ConsumoPersistenciaAPISiconfi\ConsumoPersistenciaAPISiconfi\obj\Debug\net6.0\ConsumoPersistenciaAPISiconfi.AssemblyInfoInputs.cache
+C:\Users\nxzer\source\repos\ConsumoPersistenciaAPISiconfi\ConsumoPersistenciaAPISiconfi\obj\Debug\net6.0\ConsumoPersistenciaAPISiconfi.AssemblyInfo.cs
+C:\Users\nxzer\source\repos\ConsumoPersistenciaAPISiconfi\ConsumoPersistenciaAPISiconfi\obj\Debug\net6.0\ConsumoPersistenciaAPISiconfi.csproj.CoreCompileInputs.cache
+C:\Users\nxzer\source\repos\ConsumoPersistenciaAPISiconfi\ConsumoPersistenciaAPISiconfi\obj\Debug\net6.0\ConsumoPersistenciaAPISiconfi.dll
+C:\Users\nxzer\source\repos\ConsumoPersistenciaAPISiconfi\ConsumoPersistenciaAPISiconfi\obj\Debug\net6.0\refint\ConsumoPersistenciaAPISiconfi.dll
+C:\Users\nxzer\source\repos\ConsumoPersistenciaAPISiconfi\ConsumoPersistenciaAPISiconfi\obj\Debug\net6.0\ConsumoPersistenciaAPISiconfi.pdb
+C:\Users\nxzer\source\repos\ConsumoPersistenciaAPISiconfi\ConsumoPersistenciaAPISiconfi\obj\Debug\net6.0\ConsumoPersistenciaAPISiconfi.genruntimeconfig.cache
+C:\Users\nxzer\source\repos\ConsumoPersistenciaAPISiconfi\ConsumoPersistenciaAPISiconfi\obj\Debug\net6.0\ref\ConsumoPersistenciaAPISiconfi.dll
+C:\Users\nxzer\source\repos\ConsumoPersistenciaAPISiconfi\ConsumoPersistenciaAPISiconfi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\nxzer\source\repos\ConsumoPersistenciaAPISiconfi\ConsumoPersistenciaAPISiconfi\obj\Debug\net6.0\ConsumoPersistenciaAPISiconfi.csproj.CopyComplete
