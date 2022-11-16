@@ -28,6 +28,7 @@ namespace ConsumoAPIsinconfi
 
 
         // Salvando os dados do JSON em um Arquivo de Texto.
+        /*
         private static async Task Main(string[] args)
         {
             HttpClient client = new HttpClient { BaseAddress = new Uri("https://apidatalake.tesouro.gov.br") };
@@ -43,5 +44,6 @@ namespace ConsumoAPIsinconfi
                 await file.WriteLineAsync(line.anexo + " - " + line.demonstrativo + " - " + line.esfera);
             }
         }
+        */
     }
 }
