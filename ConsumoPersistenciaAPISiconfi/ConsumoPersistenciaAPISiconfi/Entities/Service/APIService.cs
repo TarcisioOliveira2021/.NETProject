@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsumoPersistenciaAPISiconfi.Entity.Service
+namespace ConsumoPersistenciaAPISiconfi.Entities.Service
 {
     internal class APIService
     {

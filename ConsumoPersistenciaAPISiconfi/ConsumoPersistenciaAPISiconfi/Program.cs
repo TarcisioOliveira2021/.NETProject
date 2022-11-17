@@ -1,5 +1,5 @@
-﻿using ConsumoPersistenciaAPISiconfi.Entity;
-using ConsumoPersistenciaAPISiconfi.Entity.Service;
+﻿using ConsumoPersistenciaAPISiconfi.Entities;
+using ConsumoPersistenciaAPISiconfi.Entities.Service;
 using System.Reflection;
 
 namespace ConsumoPersistenciaAPISiconfi

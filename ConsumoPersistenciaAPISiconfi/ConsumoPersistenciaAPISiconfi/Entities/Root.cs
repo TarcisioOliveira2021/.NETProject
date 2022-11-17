@@ -5,7 +5,7 @@ using System.Text;
 using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
-namespace ConsumoPersistenciaAPISiconfi.Entity
+namespace ConsumoPersistenciaAPISiconfi.Entities
 {
     public class Root
     {
@@ -26,5 +26,7 @@ namespace ConsumoPersistenciaAPISiconfi.Entity
 
         [JsonPropertyName("links")]
         public List<Link> links { get; set; }
+
+        public int id { get; set; }
     }
 }
