@@ -25,9 +25,8 @@ namespace ConsumoPersistenciaAPISiconfi.Persistence.Context
         //Método responsavél por aplicar alterações nas tabelas do banco de dados.
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            //Os comportmentos de configuração ficam no Mapping da entidade Root.
-            //modelBuilder.ApplyConfiguration(new RootMap());
-
+            //Desacoplando a responsabilidade de criação das propriedades da classe contexto.
+            modelBuilder.ApplyConfiguration(new RootMap());
             modelBuilder.ApplyConfiguration(new ItemMap());
         }
     }

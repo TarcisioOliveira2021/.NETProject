@@ -14,5 +14,10 @@ namespace ConsumoPersistenciaAPISiconfi.Entities
 
         [JsonPropertyName("href")]
         public string href { get; set; }
+
+
+        //Props para banco
+        public Root root { get; set; }
+        public int rootId { get; set; }
     }
 }

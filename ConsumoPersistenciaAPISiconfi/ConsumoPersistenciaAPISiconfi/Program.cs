@@ -1,24 +1,20 @@
-﻿using ConsumoPersistenciaAPISiconfi.Entities;
-using ConsumoPersistenciaAPISiconfi.Entities.Service;
-using System.Reflection;
+﻿using Microsoft.AspNetCore.Hosting;
+using Microsoft.Extensions.Hosting;
 
 namespace ConsumoPersistenciaAPISiconfi
 {
-    class Program
+    public class Program
     {
-        public static async Task Main(string[] args)
+        public static void Main(string[] args)
         {
-            APIService api = new APIService();
-            Root jObj = await api.Convertion();
-
-            foreach (var item in jObj.items)
-            {
-                Console.WriteLine("===================================");
-                Console.WriteLine("Esfera: " + item.esfera);
-                Console.WriteLine("Demonstrativo: " + item.demonstrativo);
-                Console.WriteLine("Anex: " + item.anexo);
-                Console.WriteLine("===================================");
-            }
+            CreateHostBuilder(args).Build().Run();
         }
+
+        public static IHostBuilder CreateHostBuilder(string[] args) =>
+           Host.CreateDefaultBuilder(args)
+               .ConfigureWebHostDefaults(webBuilder =>
+               {
+                   webBuilder.UseStartup<Startup>();
+               });
     }
 }

@@ -17,5 +17,11 @@ namespace ConsumoPersistenciaAPISiconfi.Entities
 
         [JsonPropertyName("anexo")]
         public string anexo { get; set; }
+
+
+        //Props para banco
+        public Root root { get; set; }
+        public int rootId { get; set; }
+
     }
 }

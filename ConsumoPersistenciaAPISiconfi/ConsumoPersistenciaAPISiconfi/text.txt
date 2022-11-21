@@ -1,0 +1,19 @@
+﻿Documento de texto auxiliar do projeto
+=======================================
+
+- Video usado como base:
+https://www.youtube.com/watch?v=0UrCW51b0tk&t=3297s
+
+- Momentos importantes no video:
+	- 33:59 >> Como injetar setar valores defaults no banco.
+
+- appsettings.json
+	- serve para guardar as configurações de conexão com o banco.
+
+- Link do projeto usado:
+https://github.com/luisdeol/live-efcore
+
+- Nome do banco:
+EfCoreDb
+
+- Testar funcionamento em casa parei em 56:50

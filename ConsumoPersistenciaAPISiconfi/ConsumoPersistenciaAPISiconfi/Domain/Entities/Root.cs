@@ -9,6 +9,7 @@ namespace ConsumoPersistenciaAPISiconfi.Entities
 {
     public class Root
     {
+        //prop de navegação
         [JsonPropertyName("items")]
         public List<Item> items { get; set; }
 
@@ -24,9 +25,11 @@ namespace ConsumoPersistenciaAPISiconfi.Entities
         [JsonPropertyName("count")]
         public int count { get; set; }
 
+        //prop de navegação
         [JsonPropertyName("links")]
         public List<Link> links { get; set; }
 
+        //Prop para banco
         public int id { get; set; }
     }
 }
