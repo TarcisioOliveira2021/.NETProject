@@ -4,6 +4,9 @@ Documento de apoio para o projeto
 - Live/video:
   https://www.youtube.com/watch?v=Uu4TihPxlMM
 
+- Codigo do video:
+  https://github.com/jr-jesse123/Blazor-Demo
+
 - Descrição do projeto:
   - Aplicação NETBlazor (alternativa ao react).
 
