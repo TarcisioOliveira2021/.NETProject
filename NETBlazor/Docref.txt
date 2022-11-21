@@ -1,0 +1,19 @@
+Documento de apoio para o projeto
+=================================
+
+- Live/video:
+  https://www.youtube.com/watch?v=Uu4TihPxlMM
+
+- Descrição do projeto:
+  - Aplicação NETBlazor (alternativa ao react).
+
+- Parei em : || 13:05 ||
+
+================================
+| Blazor |
+    - Ferramenta para desenvolvimento de aplicações interativas.
+
+    - Envelopa:
+        - HTTP2         -> Lida com request e response
+        - WEBSLOCKETS   -> Conexão permanente entre cliente e servidor.
+        - WEBASSEMBLY   -> *NOVO* Execução de código binário via browser. 
