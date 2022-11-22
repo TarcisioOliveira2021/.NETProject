@@ -1,0 +1,38 @@
+﻿@page "/counter"
+
+<!-- Código em razor daqui pra baixo -->
+<PageTitle>Counter</PageTitle>
+
+<h1>Counter</h1>
+
+<!--Bind da saida de dados-->
+<h2>@teste</h2>
+
+<p role="status">Current count: @currentCount</p>
+
+<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+
+
+<!--Exemplo de Callback e Binding(da entrada de dados)
+    A callback é representada pelo "oninput" >> vai desencadear um evento.
+-->
+<input @oninput =@( e => RenderizarInput(e.Value.ToString()))/>
+
+
+<!-- Código em C# daqui para baixo -->
+@code {
+    private string teste = "Aqui vai um texto de teste";
+
+    private int currentCount = 0;
+
+    private void IncrementCount()
+    {
+        currentCount++;
+    }
+
+    //Método que vai sofrer "Binding" -> Linkagem com o razor lá em cima.
+    public void RenderizarInput(String input)
+    {
+        teste = input;
+    }
+}

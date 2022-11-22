@@ -3,7 +3,7 @@ Documento de apoio para o projeto
 
 - Live/video:
   https://www.youtube.com/watch?v=Uu4TihPxlMM
-  - Parei em : || 13:05 ||
+  - Parei em : || 1:39:04 ||
 
 - Codigo do video:
   https://github.com/jr-jesse123/Blazor-Demo
@@ -11,12 +11,100 @@ Documento de apoio para o projeto
 - Descrição do projeto:
   - Aplicação NETBlazor (alternativa ao react).
 
-
 ================================
 | Blazor |
     - Ferramenta para desenvolvimento de aplicações interativas.
 
     - Envelopa:
         - HTTP2         -> Lida com request e response
-        - WEBSLOCKETS   -> Conexão permanente entre cliente e servidor.
-        - WEBASSEMBLY   -> *NOVO* Execução de código binário via browser. 
+        - WEBSLOCKETS   -> Conexão permanente entre cliente e servidor, por meio de troca de mensagens em assembly.
+        - WEBASSEMBLY   -> *NOVO* Execução de código binário via browser.
+
+    - Resolve:
+        - "velocidade de processamento" da aplicação basedas na execucação de scripts.
+        - "velocidade de comunicação" entre as camadas da aplicação.
+        - "interatividade", comunicação entre cliente e servidor.
+
+    - Vantagens:
+        - Funciona bem em ambientes organizacionais (grandes corporações).
+        - Forte integração com o backend e frontend da aplicação.
+            - Envio do diff do html >> esquema de SPA.
+    
+        - Multiplataforma.
+            - Presente no ambiente web e mobile(MAUI), facilitando a troca entre tecnologias sem muitas complicações.
+        
+        - Roda usando ASPNET.
+            - O Blazor age como um "controller" que vai manter a conexão permanente com o cliente.
+                - Facilitando na migração dos componentes, sem a necessidade de ser toda a aplicação de uma vez.
+
+        - Curva de aprendizado relativamente "pequena".
+            - Se baseia nos seguintes conhecimentos:
+                  > Aspnet.              --> Necessita um conhecimento sólido.
+                  > HTML.                --> Necessário.
+                  > Component LifeCicle. --> Ciclo de vida dos compontes. (4 estágios)
+
+                  (Conceitos que andam juntos)> Binding.             
+                  (Conceitos que andam juntos)> CallBacks.           
+
+
+    - Blazor Web Assembly >> Usado para aplicações onde a velocidade de processamento desejavel seja superior a velocidade de conexão. (Lembra o react ou angula)
+    - Blazzor Server      >> Focado na comunicação entre cliente e servidor (o cliente recebe uma ilha de estado no servidor - WEBSOCKETS).
+
+    - Trabalha usando os componentes e ligações do .NET-Framework.
+    - SPA com simplicidade (Sem a necessidade de criar APIS para o front ou desacoplagem da aplicação backend e frontend).
+    - Possui "Hot Reload", as alterações são aplicadas de forma instantneas sem a necessidade de recompilação do código.
+    - Interoperabilidade com JS (Reaproveitamento de componentes JS para imcorporação da aplicação).
+    - Integração simples com MVC.
+
+    - Blazorise Library interessante do blazor.
+        - Integração com componentes do Bootstrap.
+    - Uso do "ncrunch" para testes unitários.
+
+    - Binding
+        - Seria uma forma de conectar, o que escrevemos em C# com o razor(html + css + C#).
+        - "Ponto de entrada e saida." 
+
+================================
+| Razor vs Blazor |
+    - Razor  >> Liguagem de markup ( C# e HTML ).
+    - Blazor >> Framework que vai usar o razor para aplica-lo.
+
+
+================================
+|Sobre o projeto|
+  SolutionName: "CadastroClientes.MVC".
+  Objetivo: Mostrar a comparação entre as 3 camadas do projeto > SPA - SPABlazor - MVC.
+
+
+  |Estrutura das camadas do projeto|
+        > BlazorSPA
+          - Aplicação em blazor (tempo de resposta baixissimo, mesmo em conexões "prejudicadas").
+          - Descomplica a complicações envolvendo a implementação de novas funcionalidades.
+              - Facilitando a adição de comportamentos no cliente com informações que estão no servidor.
+                  - O Blazor permite esse "link".
+
+        > core 
+          - Contém a regra de negócio da aplicação.
+          - Contém teste unitarios.
+          - Entity Framework.
+          - Com um CRUD Simples.
+          - Com validador de CPF.
+
+        > JavascriptSPA
+          - Contém uma API que vai "emular" o comportamento de um SPA comum (angular ou react).
+              - Consiste em trocar apenas as informações necessárias naquele momento.
+                  - O JSON referente aos dados, pois a página já vai está construida.
+
+        > MVC
+          - Caso implementarmos novas funcionalidades precisamos implementa-las além de seus respectivos arquivos, gerar testes, modelos e etc.
+
+        > BlazorAPP1
+          - Aplicação Blazzor.
+          - Possui componentes -> Bloco construido para funcionar de maneira isolada ou em grupo.
+          - Serve muito para prototipagem de projetos, pois é simples e intuitivo.
+          - A linkagem com os pacotes(dependecias - gerenciador de pacotes), são feitas sem usar o "nuget".
+        
+                
+
+
+

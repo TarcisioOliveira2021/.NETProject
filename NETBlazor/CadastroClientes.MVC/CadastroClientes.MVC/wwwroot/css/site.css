@@ -1,0 +1,41 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.semaforo {
+    height: 20px;
+    width: 20px;
+    border-radius: 10px;
+    
+}
+
+.Total {
+    background-color: green;
+}
+
+.Elevado {
+    background-color: yellow;
+}
+
+.Limitado {
+    background-color: red;
+}
+
+.oculto{
+    display: none
+}
