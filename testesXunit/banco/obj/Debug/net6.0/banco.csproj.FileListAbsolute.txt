@@ -1,0 +1,12 @@
+C:\Users\Tarcisio.veloso\Desktop\.NETProject\testesXunit\banco\bin\Debug\net6.0\banco.deps.json
+C:\Users\Tarcisio.veloso\Desktop\.NETProject\testesXunit\banco\bin\Debug\net6.0\banco.dll
+C:\Users\Tarcisio.veloso\Desktop\.NETProject\testesXunit\banco\bin\Debug\net6.0\banco.pdb
+C:\Users\Tarcisio.veloso\Desktop\.NETProject\testesXunit\banco\obj\Debug\net6.0\banco.csproj.AssemblyReference.cache
+C:\Users\Tarcisio.veloso\Desktop\.NETProject\testesXunit\banco\obj\Debug\net6.0\banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarcisio.veloso\Desktop\.NETProject\testesXunit\banco\obj\Debug\net6.0\banco.AssemblyInfoInputs.cache
+C:\Users\Tarcisio.veloso\Desktop\.NETProject\testesXunit\banco\obj\Debug\net6.0\banco.AssemblyInfo.cs
+C:\Users\Tarcisio.veloso\Desktop\.NETProject\testesXunit\banco\obj\Debug\net6.0\banco.csproj.CoreCompileInputs.cache
+C:\Users\Tarcisio.veloso\Desktop\.NETProject\testesXunit\banco\obj\Debug\net6.0\banco.dll
+C:\Users\Tarcisio.veloso\Desktop\.NETProject\testesXunit\banco\obj\Debug\net6.0\refint\banco.dll
+C:\Users\Tarcisio.veloso\Desktop\.NETProject\testesXunit\banco\obj\Debug\net6.0\banco.pdb
+C:\Users\Tarcisio.veloso\Desktop\.NETProject\testesXunit\banco\obj\Debug\net6.0\ref\banco.dll

@@ -1,0 +1,14 @@
+Comandos auxialers para a CLI
+=============================
+
+    -> dotnet new sln -n nomeSolution                                                               == Cria uma nova solução.
+    -> dotnet new classLib -n nomedaclasslib                                                        == Cria uma nova classlib.
+    -> dotnet sln nomeSolution add nomeClasslib/nomeClasselib.csproj                                == Linka uma classlib a uma solução.
+    -> dotnet new xunit -n nomeClasseTeste                                                          == Cria uma nova classe de teste xunit.
+    -> dotnet sln nomeSolution add nomeClasseTest/nomeClasseTest.csproj                             == Linka a solution a classe de teste.
+    -> dotnet add nomeClasseTest/nomeClasseTest.csproj reference nomeClasslib/nomeClasselib.csproj  == Linka a classe de test com a classlib.
+    
+    -> dotnet test == Roda os teste.
+
+===============================
+Os testes podem ser rodados via CLI ou via VStudio pela aba de "Test".
