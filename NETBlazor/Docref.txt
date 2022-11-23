@@ -62,7 +62,9 @@ Documento de apoio para o projeto
 
     - Binding
         - Seria uma forma de conectar, o que escrevemos em C# com o razor(html + css + C#).
-        - "Ponto de entrada e saida." 
+        - "Ponto de entrada e saida."
+
+    - Os problemas de publicação estão ligados apenas a niveis detalhamento tecnicos do Azure. 
 
 ================================
 | Razor vs Blazor |
@@ -82,6 +84,9 @@ Documento de apoio para o projeto
           - Descomplica a complicações envolvendo a implementação de novas funcionalidades.
               - Facilitando a adição de comportamentos no cliente com informações que estão no servidor.
                   - O Blazor permite esse "link".
+          
+          - A classe "GestaoCliente" age como uma SPA normal, contendo toda a parte de componentização.
+          - Contém a parte de injeção de dependecias (A ligação entre os repositorios)
 
         > core 
           - Contém a regra de negócio da aplicação.
@@ -103,6 +108,11 @@ Documento de apoio para o projeto
           - Possui componentes -> Bloco construido para funcionar de maneira isolada ou em grupo.
           - Serve muito para prototipagem de projetos, pois é simples e intuitivo.
           - A linkagem com os pacotes(dependecias - gerenciador de pacotes), são feitas sem usar o "nuget".
+
+
+  > Pontos importantes do video :
+     - 1:38:00 >> Explicação da ligação entre os componentes nesse exemplo de SPA.
+     - 1:42:00 >> Exemplificação sobre usar MVC atrelado ao Blazor em nivel de estrutra de código, porém ao framework vai ser responsavél pela comunicação. (que vai ser rápida e dinamica)
         
                 
 
