@@ -1,0 +1,73 @@
+==========================  DOC Apoio ===========================
+=================================================================
+
+-> Tutorial usado : https://www.youtube.com/watch?v=pLrsy-ookXQ (Parei em 57:47)
+
+=================================================================
+Testes Unitários
+    - Garantem o funcionamento do código mesmo após alterações.
+    - Aliviam o pesso da manutenção do código.
+
+    -> Parar linguagens baseadas em OO == Testamos os métodos desse objeto.
+    -> Para linguagens funcional       == Testamos uma função.
+
+
+Estrutura dos Testes
+=================================================================
+
+    - AAA
+        - Arrange.   (Preparar)
+        - Act.       (Agir)
+        - Assert.    (Verificar)
+
+    - SEVT
+        - Setup.     (Preparar) 
+        - Exercise.  (Agir)
+        - Verify.    (Verificar)
+        - Teardown.  (Destruir/limpar)
+
+    - SAAAT (Mix dos dois acima)
+        - Setup.     (Preparar cenário geral)  - ficava fora do método de teste.
+        - Arrange.   (Preparar cenário especifico)
+        - Act.       (Agir)
+        - Assert.    (Verificar)
+        - Teardown.  (Destruir/limpar)         - ficava fora do método de teste.
+
+
+
+TDD - Test Driven Development (Desenvolvimento guiado por testes)
+=================================================================
+
+Segue o "RGR" (Red - Green - Refactor)
+    - Falhar - Corrigir - Melhorar.
+
+
+
+XUnit
+=================================================================
+- Testa fatos(Fact) ou teorias(Theroy).
+
+[Fact]   - Teste Unitário.
+[Fact(Skip = "Não implementado")]
+[Fact(DisplayName = "Nome do teste")]
+
+[Theory] - Teste Parametrizado.
+[InlineData]  - Passamos os dados do teste na linha.
+[MemeberData] - Usamos para chamar arquivos externos.
+[ClassData]   - Usamos para chamar arquivos externos.
+
+
+[Trait("NomeDaCatergoria","NomeGrupo")] - Usado para organizar a execução dos testes.
+
+Para rodar                               ==> dotnet test --filter NomeDaCatergoria=NomeGrupo
+Outra forma de rodar um teste especifico ==> dotnet test -v n --filter TestIdadeMenor18
+
+
+- Considera como "setup" o "construtor" da classe, o mesmo caso ocorre para o "Teardown".
+
+- Testes que precisam ser pulados precisamos implementar :
+            //TODO:   Precisa implementar
+            //HACK:   Precisa implementar
+            //UNDONE: Precisa implementar
+
+            Servem para marcar e não nós perdemos no código sem testar.
