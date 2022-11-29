@@ -31,6 +31,7 @@ public class BankAccountTest
         Assert.Throws<ArgumentOutOfRangeException>(() => acc2.Debit(debito));
     }
 
+    //Pass
     [Fact(DisplayName = "Teste para compara se a mensagem do exception é a esperada.")]
     public void Debito_menor_exception()
     {
@@ -45,12 +46,14 @@ public class BankAccountTest
         }
         catch (ArgumentOutOfRangeException e)
         {
-            //Como comparar se a mensage é igual a armazenada na variavel ?
-            //Teste complicou preciso tirar duvidas de como compara o valor exato da mensagem da exception.
+            
+            //Funciona dessa forma pois a "msgEsperada" é igual a "e.Message".
+            //string msgEsperada = "O debito é menor que 0 (Parameter 'amount')\r\nActual value was -100.";
+            //Assert.Equal(msgEsperada, e.Message);
 
-            string msgEsperada = "O debito é menor que 0 (Parameter 'amount')\r\nActual value was -100.";
-
-            Assert.Equal(msgEsperada, e.Message);
+            string msgAtual = e.ToString();
+            string msgEsperada = BankAccount.DebitoAbaixo;
+            Assert.Contains(msgEsperada, msgAtual);
         }
     }
 }
