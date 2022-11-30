@@ -2,7 +2,8 @@
 =================================================================
 
 -> Tutorial usado : https://www.youtube.com/watch?v=pLrsy-ookXQ (Parei em 57:47)
-
+    -> Plugging usado no VStudio == ".NET Core Test Explorer"
+        --> "dotnet test -v n --filter Nome"
 =================================================================
 Testes Unitários
     - Garantem o funcionamento do código mesmo após alterações.
@@ -71,3 +72,9 @@ Outra forma de rodar um teste especifico ==> dotnet test -v n --filter TestIdade
             //UNDONE: Precisa implementar
 
             Servem para marcar e não nós perdemos no código sem testar.
+
+
+- Paralelismo dos testes para classes diferentes.
+    - Caso na mesma classe os testes vão ser serializados usando colections. [Collection("NomeDoGrupo")].
+        - Para rodar testes de classes diferentes.
+        - Tudo dentro da "Collection" vai ser serializado.
