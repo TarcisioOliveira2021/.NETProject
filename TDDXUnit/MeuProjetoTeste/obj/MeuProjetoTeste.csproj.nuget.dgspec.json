@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\TDDXUnit\\MeuProjetoTeste\\MeuProjetoTeste.csproj": {}
+    "c:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\TDDXUnit\\MeuProjetoTeste\\MeuProjetoTeste.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\TDDXUnit\\MeuProjetoTeste\\MeuProjetoTeste.csproj": {
+    "c:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\TDDXUnit\\MeuProjetoTeste\\MeuProjetoTeste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\TDDXUnit\\MeuProjetoTeste\\MeuProjetoTeste.csproj",
+        "projectUniqueName": "c:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\TDDXUnit\\MeuProjetoTeste\\MeuProjetoTeste.csproj",
         "projectName": "MeuProjetoTeste",
-        "projectPath": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\TDDXUnit\\MeuProjetoTeste\\MeuProjetoTeste.csproj",
+        "projectPath": "c:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\TDDXUnit\\MeuProjetoTeste\\MeuProjetoTeste.csproj",
         "packagesPath": "C:\\Users\\Tarcisio.veloso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\TDDXUnit\\MeuProjetoTeste\\obj\\",
+        "outputPath": "c:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\TDDXUnit\\MeuProjetoTeste\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tarcisio.veloso\\AppData\\Roaming\\NuGet\\NuGet.Config",

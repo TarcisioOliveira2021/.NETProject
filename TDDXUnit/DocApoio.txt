@@ -1,7 +1,7 @@
 ==========================  DOC Apoio ===========================
 =================================================================
 
--> Tutorial usado : https://www.youtube.com/watch?v=pLrsy-ookXQ (Parei em 57:47)
+-> Tutorial usado : https://www.youtube.com/watch?v=pLrsy-ookXQ
     -> Plugging usado no VStudio == ".NET Core Test Explorer"
         --> "dotnet test -v n --filter Nome"
 =================================================================
