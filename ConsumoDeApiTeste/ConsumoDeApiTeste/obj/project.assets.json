@@ -53,11 +53,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tarcisio.veloso\\source\\repos\\ConsumoDeApiTeste\\ConsumoDeApiTeste\\ConsumoDeApiTeste.csproj",
+      "projectUniqueName": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\ConsumoDeApiTeste\\ConsumoDeApiTeste\\ConsumoDeApiTeste.csproj",
       "projectName": "ConsumoDeApiTeste",
-      "projectPath": "C:\\Users\\Tarcisio.veloso\\source\\repos\\ConsumoDeApiTeste\\ConsumoDeApiTeste\\ConsumoDeApiTeste.csproj",
+      "projectPath": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\ConsumoDeApiTeste\\ConsumoDeApiTeste\\ConsumoDeApiTeste.csproj",
       "packagesPath": "C:\\Users\\Tarcisio.veloso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tarcisio.veloso\\source\\repos\\ConsumoDeApiTeste\\ConsumoDeApiTeste\\obj\\",
+      "outputPath": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\ConsumoDeApiTeste\\ConsumoDeApiTeste\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tarcisio.veloso\\AppData\\Roaming\\NuGet\\NuGet.Config",
