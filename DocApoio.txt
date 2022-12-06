@@ -1,8 +1,0 @@
-Dapper
-==================
-- Micro ORM. (Object Relational Mapper)
-    - Auxilia no mapeamento de objetos dentro de um banco de dados.
-
-- Mapeia as consultas para os objetos.
-- Não tem tantas funcionalidades quanto o EntityFramework C.
-
