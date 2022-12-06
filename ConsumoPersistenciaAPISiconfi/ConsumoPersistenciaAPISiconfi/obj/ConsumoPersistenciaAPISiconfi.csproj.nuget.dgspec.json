@@ -1,28 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\ConsumoPersistenciaAPISiconfi\\ConsumoPersistenciaAPISiconfi\\ConsumoPersistenciaAPISiconfi.csproj": {}
+    "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\.NETProject\\ConsumoPersistenciaAPISiconfi\\ConsumoPersistenciaAPISiconfi\\ConsumoPersistenciaAPISiconfi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\ConsumoPersistenciaAPISiconfi\\ConsumoPersistenciaAPISiconfi\\ConsumoPersistenciaAPISiconfi.csproj": {
+    "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\.NETProject\\ConsumoPersistenciaAPISiconfi\\ConsumoPersistenciaAPISiconfi\\ConsumoPersistenciaAPISiconfi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\ConsumoPersistenciaAPISiconfi\\ConsumoPersistenciaAPISiconfi\\ConsumoPersistenciaAPISiconfi.csproj",
+        "projectUniqueName": "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\.NETProject\\ConsumoPersistenciaAPISiconfi\\ConsumoPersistenciaAPISiconfi\\ConsumoPersistenciaAPISiconfi.csproj",
         "projectName": "ConsumoPersistenciaAPISiconfi",
-        "projectPath": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\ConsumoPersistenciaAPISiconfi\\ConsumoPersistenciaAPISiconfi\\ConsumoPersistenciaAPISiconfi.csproj",
-        "packagesPath": "C:\\Users\\Tarcisio.veloso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\ConsumoPersistenciaAPISiconfi\\ConsumoPersistenciaAPISiconfi\\obj\\",
+        "projectPath": "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\.NETProject\\ConsumoPersistenciaAPISiconfi\\ConsumoPersistenciaAPISiconfi\\ConsumoPersistenciaAPISiconfi.csproj",
+        "packagesPath": "C:\\Users\\nxzer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\.NETProject\\ConsumoPersistenciaAPISiconfi\\ConsumoPersistenciaAPISiconfi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Tarcisio.veloso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nxzer\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
         },
         "frameworks": {
           "net6.0": {
@@ -81,7 +80,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -93,7 +93,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
