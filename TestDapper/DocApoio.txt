@@ -1,0 +1,33 @@
+Links uteis para fazer este projeto.
+==================
+- https://learn.microsoft.com/pt-br/dotnet/core/tutorials/library-with-visual-studio-code?pivots=dotnet-6-0
+- https://www.luisdev.com.br/2022/08/26/acesso-a-dados-em-apis-com-net-6-dapper-e-sql-server/
+- https://renatogroffe.medium.com/dapper-exemplos-de-utiliza%C3%A7%C3%A3o-em-asp-net-core-e-net-full-292f8b74cf1a
+- https://learn.microsoft.com/pt-br/archive/msdn-magazine/2016/may/data-points-dapper-entity-framework-and-hybrid-apps
+
+Meus objetivos com este projeto:
+1- Separa o projeto em camadas.
+2- Implementar os conceitos do EntityFramework.
+3- Implementar a parte Dapper para ORM.
+
+Dapper
+==================
+- Micro ORM. (Object Relational Mapper)
+    - Auxilia no mapeamento de objetos dentro de um banco de dados.
+
+- Mapeia as consultas para os objetos.
+- Não tem tantas funcionalidades quanto o EntityFramework Core.
+- Focado no mapeamento de consultas para objetos.
+- Seus Métodos atuam em cima de um objeto do tipo "SqlConnection".
+- Pode integrar com o EntityFramework !!
+
+Vantangens do Dapper
+====================
+-> Boa performance.
+-> Fácil sintaxe.
+-> Praticidade para entregar com "IDbConnection".
+-> Funcionalidades "Bulk Insert".
+-> etc.
+
+
+

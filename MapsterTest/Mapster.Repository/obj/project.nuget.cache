@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OY78o9GdFjokBSM07XkTMX01TPQDr2WWueqNKlXuycggxENxnIdZcf8LMYuywHTm5RvzOPFYYICjZmjl/yv3IQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\MapsterTest\\Mapster.Repository\\Mapster.Repository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tarcisio.veloso\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

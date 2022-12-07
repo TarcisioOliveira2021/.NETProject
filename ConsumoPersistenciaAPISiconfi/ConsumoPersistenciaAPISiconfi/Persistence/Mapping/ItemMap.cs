@@ -16,15 +16,15 @@ namespace ConsumoPersistenciaAPISiconfi.Persistence.Mapping
         {   
             //Conceito de FluentAPI -- Para configurar os comportamentos das entidades.
             entity.ToTable("tb_items");
-            entity.Property(e => e.esfera)
+            entity.Property(i => i.esfera)
                 .HasColumnName("esfera")
                 .HasMaxLength(10);
 
-            entity.Property(e => e.anexo)
+            entity.Property(i => i.anexo)
                 .HasColumnName("anexo")
                 .HasMaxLength(100);
 
-            entity.Property(e => e.demonstrativo)
+            entity.Property(i => i.demonstrativo)
                 .HasColumnName("demonstrativo")
                 .HasMaxLength(100);
 
