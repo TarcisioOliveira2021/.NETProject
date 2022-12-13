@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Mapster.Entity\Mapster.Entity.csproj" />
+    <ProjectReference Include="..\Mapster.Repository\Mapster.Repository.csproj" />
+  </ItemGroup>
+
 </Project>
