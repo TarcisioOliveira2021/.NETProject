@@ -1,0 +1,144 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "PetaPoco/5.1.306": {
+        "type": "package"
+      },
+      "PetaPoco.Core.Compiled/5.1.306": {
+        "type": "package",
+        "compile": {
+          "lib/net46/PetaPoco.dll": {}
+        },
+        "runtime": {
+          "lib/net46/PetaPoco.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PetaPoco/5.1.306": {
+      "sha512": "B8CaBJtriKE42WYx8M/2wGPgnTMY6DrbzzsC5NenBZgTwveKymYYf6kqC1Sm/4dwhhy9ijMpu20Bqmz2jOY1Gw==",
+      "type": "package",
+      "path": "petapoco/5.1.306",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Content/Models/Generated/Database.tt",
+        "Content/Models/Generated/PetaPoco.Core.ttinclude",
+        "Content/Models/Generated/PetaPoco.Generator.ttinclude",
+        "Content/Models/PetaPoco.cs",
+        "petapoco.5.1.306.nupkg.sha512",
+        "petapoco.nuspec"
+      ]
+    },
+    "PetaPoco.Core.Compiled/5.1.306": {
+      "sha512": "9kzDluA5SbC+PsX5OnZJwLQYifsfMxBCTMvLRn4xMD7OLUaP6EMDt5HrNso7jsgfh4yvT9Mmi/pWUrjflMsslw==",
+      "type": "package",
+      "path": "petapoco.core.compiled/5.1.306",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/PetaPoco.dll",
+        "lib/net40/PetaPoco.pdb",
+        "lib/net40/PetaPoco.xml",
+        "lib/net45/PetaPoco.dll",
+        "lib/net45/PetaPoco.pdb",
+        "lib/net45/PetaPoco.xml",
+        "lib/net46/PetaPoco.dll",
+        "lib/net46/PetaPoco.pdb",
+        "lib/net46/PetaPoco.xml",
+        "petapoco.core.compiled.5.1.306.nupkg.sha512",
+        "petapoco.core.compiled.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "PetaPoco >= 5.1.306",
+      "PetaPoco.Core.Compiled >= 5.1.306"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Tarcisio.veloso\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\PetaPocoProject\\AspNetCorePetaPoco\\AspNetCorePetaPoco.csproj",
+      "projectName": "AspNetCorePetaPoco",
+      "projectPath": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\PetaPocoProject\\AspNetCorePetaPoco\\AspNetCorePetaPoco.csproj",
+      "packagesPath": "C:\\Users\\Tarcisio.veloso\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\PetaPocoProject\\AspNetCorePetaPoco\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Tarcisio.veloso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "PetaPoco": {
+            "target": "Package",
+            "version": "[5.1.306, )"
+          },
+          "PetaPoco.Core.Compiled": {
+            "target": "Package",
+            "version": "[5.1.306, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'PetaPoco.Core.Compiled 5.1.306' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto 'net6.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "PetaPoco.Core.Compiled",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

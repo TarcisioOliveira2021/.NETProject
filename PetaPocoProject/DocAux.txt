@@ -1,0 +1,13 @@
+Link uteis
+    - https://www.treinaweb.com.br/blog/utilizando-o-micro-orm-petapoco-em-uma-aplicacao-asp-net-core
+
+=======================================================================================================
+Petapoco usando aplicação em ASP.NET Core.
+
+    - Micro-framework ORM.
+    - Solução de um arquivo que trabalha com classes POCCO.
+    - Usamos as marcações de [TableName], etc.
+    - Como outros Micro-framework ORM o Petapoco precisa de uma classe de configuração para a conexão com o banco de dados. (DataBaseConfig)
+    - O Petapoco não cria a estrutura do banco automaticamente, ela precisa ser criada não mão.
+        -> Usando as classes que estão no folder de "repositories".
+

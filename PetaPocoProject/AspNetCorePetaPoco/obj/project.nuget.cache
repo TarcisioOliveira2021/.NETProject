@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "bjSTt7Nt6+VmKcM+pPgsSTmKRQTSdYFDC+9EHQLp6irVmRu8VS8aONQibbdgEIYfzvOB/do6dy8TKmeIeQJP8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\PetaPocoProject\\AspNetCorePetaPoco\\AspNetCorePetaPoco.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tarcisio.veloso\\.nuget\\packages\\petapoco\\5.1.306\\petapoco.5.1.306.nupkg.sha512",
+    "C:\\Users\\Tarcisio.veloso\\.nuget\\packages\\petapoco.core.compiled\\5.1.306\\petapoco.core.compiled.5.1.306.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'PetaPoco.Core.Compiled 5.1.306' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto 'net6.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "PetaPoco.Core.Compiled",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
