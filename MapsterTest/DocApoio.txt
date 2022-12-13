@@ -2,7 +2,16 @@ Links uteis
 =================================
 - https://www.luisdev.com.br/2022/11/06/mapster-e-asp-net-mapeamento-de-objetos/
 - https://www.devmedia.com.br/trabalhando-com-enums-em-csharp/26059
+- https://learn.microsoft.com/pt-br/dotnet/api/system.reflection.assembly?view=net-7.0
 
 Mapster
 =================================
 - Serve para mapeamento de objetos.
+- Na classe de configuração(MapsterMapConfig) vamos passar o modelo de entrada e o modelos de saida ( entrada =  funcionario , saida = funcionarioViewModel )
+    -> Temos o mapeamento usando o TypeAdapterConif<ModeloDeOrigem,ModeloDeSaida> (ModeloDeOrigem == Origem , ModeloDeSaida == Destino).
+    -> O método .Map() => Faz o mapeamento dos objetos concatenando as informações que necessitamos.
+    -> O "ConstructUsing" vai ser um "guia" de como concatenar.
+
+- Na classe "FuncionarioService"
+    ->  Onde os mapeamento vão ser usados de fato.
+        - Usa-se o método .Adapt<T(origem)>

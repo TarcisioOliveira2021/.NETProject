@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zsnOYNA1UNLaUqkSHeuX1QhYePpks+dB6WQ2M3bTx4KmlS5JnG4K0F+ZCDC4m56k1IEPS7NBSHG14t8X4itBsg==",
+  "dgSpecHash": "s0mkq8oi3OOWvw3lQ6C1k+EVrddYBK04YCzPadsyAUrtPHnA9Gh2lhK4NfZJh/OX/HrmMrRirXPwUNDccLYpEw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\MapsterTest\\Mapster.Repository\\Mapster.Repository.csproj",
+  "projectFilePath": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\MapsterTest\\Mapster.Service\\Mapster.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tarcisio.veloso\\.nuget\\packages\\mapster\\7.4.0-pre03\\mapster.7.4.0-pre03.nupkg.sha512",
     "C:\\Users\\Tarcisio.veloso\\.nuget\\packages\\mapster.core\\1.2.1-pre02\\mapster.core.1.2.1-pre02.nupkg.sha512",

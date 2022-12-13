@@ -410,6 +410,21 @@
         "runtime": {
           "bin/placeholder/Mapster.Entity.dll": {}
         }
+      },
+      "Mapster.Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Mapster": "7.4.0-pre03",
+          "Mapster.Entity": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "7.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Mapster.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Mapster.Repository.dll": {}
+        }
       }
     }
   },
@@ -2089,13 +2104,17 @@
       "type": "project",
       "path": "../Mapster.Entity/Mapster.Entity.csproj",
       "msbuildProject": "../Mapster.Entity/Mapster.Entity.csproj"
+    },
+    "Mapster.Repository/1.0.0": {
+      "type": "project",
+      "path": "../Mapster.Repository/Mapster.Repository.csproj",
+      "msbuildProject": "../Mapster.Repository/Mapster.Repository.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Mapster >= 7.4.0-pre03",
       "Mapster.Entity >= 1.0.0",
-      "Microsoft.Extensions.DependencyInjection.Abstractions >= 7.0.0"
+      "Mapster.Repository >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -2104,11 +2123,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\MapsterTest\\Mapster.Repository\\Mapster.Repository.csproj",
-      "projectName": "Mapster.Repository",
-      "projectPath": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\MapsterTest\\Mapster.Repository\\Mapster.Repository.csproj",
+      "projectUniqueName": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\MapsterTest\\Mapster.Service\\Mapster.Service.csproj",
+      "projectName": "Mapster.Service",
+      "projectPath": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\MapsterTest\\Mapster.Service\\Mapster.Service.csproj",
       "packagesPath": "C:\\Users\\Tarcisio.veloso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\MapsterTest\\Mapster.Repository\\obj\\",
+      "outputPath": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\MapsterTest\\Mapster.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tarcisio.veloso\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2127,6 +2146,9 @@
           "projectReferences": {
             "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\MapsterTest\\Mapster.Entity\\Mapster.Entity.csproj": {
               "projectPath": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\MapsterTest\\Mapster.Entity\\Mapster.Entity.csproj"
+            },
+            "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\MapsterTest\\Mapster.Repository\\Mapster.Repository.csproj": {
+              "projectPath": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\MapsterTest\\Mapster.Repository\\Mapster.Repository.csproj"
             }
           }
         }
@@ -2140,16 +2162,6 @@
     "frameworks": {
       "net6.0": {
         "targetAlias": "net6.0",
-        "dependencies": {
-          "Mapster": {
-            "target": "Package",
-            "version": "[7.4.0-pre03, )"
-          },
-          "Microsoft.Extensions.DependencyInjection.Abstractions": {
-            "target": "Package",
-            "version": "[7.0.0, )"
-          }
-        },
         "imports": [
           "net461",
           "net462",
