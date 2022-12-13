@@ -1,0 +1,21 @@
+links uteis
+    - https://www.luisdev.com.br/2020/08/17/automapper-e-asp-net-core-mapeamento-entre-objetos-parte-1/
+    - https://github.com/luisdeol/artigo-automapper
+================
+AutoMapper
+
+    - Mapeia objetos.
+    - Biblioteca.
+    - Resolve o problema de construtores sobrecarregados de atributos que precisam ser chamados na hora de criar um objeto usando o HttpPost
+
+No projeto
+    - Temos as classes:
+        - Carro.
+        - CarroInputModel.
+        - CarroProfile.
+        - CarroViewModel.
+
+    - Ambas classes são sobrecarregadas com mesmas informações e a classe carro tem vários parametros.
+    - A classe "CarroProfile" vai fazer o mapeamento dos objeto informados (Origem,Destino).
+
+
