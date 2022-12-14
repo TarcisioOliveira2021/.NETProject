@@ -1,0 +1,12 @@
+c:\Users\Tarcisio.veloso\Desktop\.NETProject\TesteUnitarioDummies_AutoFixture\Calculo\bin\Debug\net6.0\Calculo.deps.json
+c:\Users\Tarcisio.veloso\Desktop\.NETProject\TesteUnitarioDummies_AutoFixture\Calculo\bin\Debug\net6.0\Calculo.dll
+c:\Users\Tarcisio.veloso\Desktop\.NETProject\TesteUnitarioDummies_AutoFixture\Calculo\bin\Debug\net6.0\Calculo.pdb
+c:\Users\Tarcisio.veloso\Desktop\.NETProject\TesteUnitarioDummies_AutoFixture\Calculo\obj\Debug\net6.0\Calculo.csproj.AssemblyReference.cache
+c:\Users\Tarcisio.veloso\Desktop\.NETProject\TesteUnitarioDummies_AutoFixture\Calculo\obj\Debug\net6.0\Calculo.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Tarcisio.veloso\Desktop\.NETProject\TesteUnitarioDummies_AutoFixture\Calculo\obj\Debug\net6.0\Calculo.AssemblyInfoInputs.cache
+c:\Users\Tarcisio.veloso\Desktop\.NETProject\TesteUnitarioDummies_AutoFixture\Calculo\obj\Debug\net6.0\Calculo.AssemblyInfo.cs
+c:\Users\Tarcisio.veloso\Desktop\.NETProject\TesteUnitarioDummies_AutoFixture\Calculo\obj\Debug\net6.0\Calculo.csproj.CoreCompileInputs.cache
+c:\Users\Tarcisio.veloso\Desktop\.NETProject\TesteUnitarioDummies_AutoFixture\Calculo\obj\Debug\net6.0\Calculo.dll
+c:\Users\Tarcisio.veloso\Desktop\.NETProject\TesteUnitarioDummies_AutoFixture\Calculo\obj\Debug\net6.0\refint\Calculo.dll
+c:\Users\Tarcisio.veloso\Desktop\.NETProject\TesteUnitarioDummies_AutoFixture\Calculo\obj\Debug\net6.0\Calculo.pdb
+c:\Users\Tarcisio.veloso\Desktop\.NETProject\TesteUnitarioDummies_AutoFixture\Calculo\obj\Debug\net6.0\ref\Calculo.dll

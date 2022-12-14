@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6GyU89eBN03QVUcQ8ngnDcdmhGAtHaV9LCXu1hHRzSxUNRrbDGzg9BH0s5/nqObtjiUFolDFU0yu1t0V6UnljA==",
+  "dgSpecHash": "h1i4h68EwT9SQlGR12OqdEzO70YI/X5yHgkBMMuSxb+vUrl8dO0hSgxxwcY+WAPp3ZY8QjmriCQLo+P/xkl1Ug==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\TDDXUnit\\MeuProjetoTeste\\MeuProjetoTeste.csproj",
+  "projectFilePath": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\TDDXUnit\\MeuProjetoTeste\\MeuProjetoTeste.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tarcisio.veloso\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Tarcisio.veloso\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

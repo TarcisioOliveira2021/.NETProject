@@ -1,0 +1,25 @@
+Links Uteis
+================
+    -> https://www.luisdev.com.br/2022/12/11/testes-unitarios-com-xunit-e-net-o-que-sao-dummies-e-como-criar-e-customizar-com-autofixture/
+
+
+================
+Dummies
+    - Dados Fakes para testes.
+    - Representam modelos de entrada de dados e saida de dados (Entidades, model , viewModels, InputModel, etc)
+    - Podemos realizar alterações de código dentro dessas classes "Dummies".
+
+================
+Autofixture
+    - Lib que permite criar "Dummies".
+        - Além de permitir customizações dos atributos nessa geração de "dummies".
+
+================
+Outra forma de rodar um teste especifico ou mostrar infos no console ==> 
+- dotnet test -v n --filter ValidarChamadaInputModelCustomizado_True
+- dotnet test --logger "console;verbosity=detailed"
+        
+
+
+- Preciso olhar
+https://github.com/luisdeol/xunit-moq-autofixture-shoudly-article
