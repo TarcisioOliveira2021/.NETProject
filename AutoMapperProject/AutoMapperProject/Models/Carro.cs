@@ -7,16 +7,16 @@ namespace AutoMapperProject.Models
 {
     public class Carro
     {
-        public Carro(string placa, string cor, string modelo, int chassi)
+        public Carro(int id, string placa, string cor, string modelo, int chassi)
         {
-            Id = Guid.NewGuid();
+            Id = id;
             Placa = placa;
             Cor = cor;
             Modelo = modelo;
             Chassi = chassi;
         }
 
-        public Guid Id { get; set; }
+        public int Id { get; set; }
         public string Placa { get; set; }
         public string Cor { get; set; }
         public string Modelo { get; set; }

@@ -17,5 +17,9 @@ No projeto
 
     - Ambas classes são sobrecarregadas com mesmas informações e a classe carro tem vários parametros.
     - A classe "CarroProfile" vai fazer o mapeamento dos objeto informados (Origem,Destino).
+        - Eventuais erros de compilação podem ser solucionados usando a "lib" de DependecyInjection.
+
+Funcional:
+    - https://localhost:PORTA/api/carro/0 => Funcional instancia um Carro com os atributos da ViewModel.
 
 
