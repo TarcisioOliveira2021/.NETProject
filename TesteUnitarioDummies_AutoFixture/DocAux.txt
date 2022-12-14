@@ -1,7 +1,7 @@
 Links Uteis
 ================
     -> https://www.luisdev.com.br/2022/12/11/testes-unitarios-com-xunit-e-net-o-que-sao-dummies-e-como-criar-e-customizar-com-autofixture/
-
+	 -> https://docs.educationsmediagroup.com/unit-testing-csharp/autofixture/type-customization
 
 ================
 Dummies
