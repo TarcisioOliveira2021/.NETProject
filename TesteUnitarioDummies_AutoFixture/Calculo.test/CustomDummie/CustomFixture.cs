@@ -14,14 +14,8 @@ namespace Calculo.test.CustomDummie
         public static IPostprocessComposer<SomaInputModel> AddSomaInputModel(){
             IPostprocessComposer<SomaInputModel> fixture = new Fixture()
             .Build<SomaInputModel>()
-            .With(model => model.operador1, () => {
-                var op = 12;
-                return op;
-            })
-            .With(model => model.operador2, () => {
-                var op = 90;
-                return op;
-            });
+            .With(model => model.operador1, 1)
+            .With(model => model.operador2, 0);
 
             return fixture;
         }
