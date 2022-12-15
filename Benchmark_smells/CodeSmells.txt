@@ -1,0 +1,41 @@
+Links 
+======================
+    -> https://www.luisdev.com.br/2022/08/11/clean-code-com-asp-net-core-e-c-code-smells/
+======================
+Code smells
+
+    - Ameaças a manutenções.
+    - Códigos com baixa legibilidade.
+
+    - 5 Tipos:
+
+        >> Bloaters
+        ============
+            - Crescimento exagerado do projeto.
+                - Muitas classes e métodos desnecessários.
+            
+            Exemplos desse tipo:
+                "Long Method"
+                "Large Class"
+                "Primitive Obsession"
+                "Long Parameter List"
+                "Data Clumps"
+
+        >> Object-Orientatio Abusers
+        ============================
+            - Aplicação incoreta de conceitos do OO.
+
+            Exemplos desse tipo:
+                "Alternative Classes with Different Interfaces"
+                "Refused Bequest"
+                "Switch Statements"
+                "Temporary Field"
+        
+        >> Change Preventers
+        ============================
+            - Alta complexidade do código que vai implicar em mudanças em todo o código.
+
+            Exemplos desse tipo:
+                "Divergent Change"
+                "Parallel Inheritance Hierarchies"
+                "Shotgun Surgery"

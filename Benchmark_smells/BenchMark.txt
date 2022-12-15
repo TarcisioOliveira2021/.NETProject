@@ -1,0 +1,6 @@
+Links 
+======================
+    -> https://www.luisdev.com.br/2022/09/17/benchmarkdotnet-medindo-a-performance-de-codigo-net/
+
+
+" dotnet run --configuration Release " --> Comando para rodar.
