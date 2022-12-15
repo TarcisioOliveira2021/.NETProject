@@ -1,0 +1,32 @@
+Links Uteis ( Funciona apenas em dotnet 7 )
+======================
+- https://www.luisdev.com.br/2022/12/03/rate-limiting-em-apis-com-asp-net-core-7-0/
+- https://www.luisdev.com.br/2022/07/06/introducao-ao-rabbitmq/
+
+
+======================
+RabbitMQ
+
+    - Serviço de Mensageria.
+    - Message blocker.
+        - Permite que diferentes componentes e aplicações se comuniquem entre si, trocando dados (informações).
+    - Usa fila de mensagens para definir a ordem de recebimento das mensagens enquando elas não são consumidas pelas asplicações.
+
+    == Estrutura ==
+    - Fila: estrutura onde as mensagens são armazenadas e consumidas. Tem como principais características, que podem ter valor verdadeiro ou falso:
+    - Durável: a fila segue existindo mesmo que o message broker reinicie;
+    - Auto-Delete: quando a fila chegue a ter apenas um consumidor e ele se desinscreve, a fila é apagada;
+    - Exclusiva: a fila é utilizada por apenas uma conexão, sendo apagada quando essa conexão for encerrada.
+    - Exchange: são os agentes responsáveis por rotear as mensagens para filas, utilizando atributos de cabeçalho, routing keys ou bindings.
+    - Binding: conexão utilizada para configurar uma relação entre uma fila e um exchange.
+    - Routing Key: é um atributo adicionado ao cabeçalho da mensagem, servindo como um “endereço” que o exchange poderá decidir como rotear a mensagem com base nos Bindings definidos.
+
+
+======================
+Rate limiting
+
+    - Nativa no ASP.NET Core 7.
+    - Middleware.
+    - Restringe o tráfego de rede recebido pela aplicação, limitando as requisições por um periodo de tempo.
+    - Ajuda a evitar ataques de DDoS.
+    - Estabelece o controle sobre os serviços web publicados.
