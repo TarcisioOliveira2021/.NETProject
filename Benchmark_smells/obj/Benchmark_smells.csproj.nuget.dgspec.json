@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\Benchmark_smells\\Benchmark_smells.csproj": {}
+    "c:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\Benchmark_smells\\Benchmark_smells.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\Benchmark_smells\\Benchmark_smells.csproj": {
+    "c:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\Benchmark_smells\\Benchmark_smells.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\Benchmark_smells\\Benchmark_smells.csproj",
+        "projectUniqueName": "c:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\Benchmark_smells\\Benchmark_smells.csproj",
         "projectName": "Benchmark_smells",
-        "projectPath": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\Benchmark_smells\\Benchmark_smells.csproj",
+        "projectPath": "c:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\Benchmark_smells\\Benchmark_smells.csproj",
         "packagesPath": "C:\\Users\\Tarcisio.veloso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\Benchmark_smells\\obj\\",
+        "outputPath": "c:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\Benchmark_smells\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tarcisio.veloso\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uiBWoxmBah+/jqQYvQqL+m14CDecaPgi7sTDd2I/ngRos/op3JdiOF1Hq9OhHjl1VUYXcYWtLDP9x1D5qIWJ7w==",
+  "dgSpecHash": "GRrGMl362DCEYgr8cuVXu2g6FaHUOZDiC5nvr7I0ATFbKio9CYSCxR1Mx0WHySE8fBXQmAvSjrOnq1Y5N6pQlw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\Benchmark_smells\\Benchmark_smells.csproj",
+  "projectFilePath": "c:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\Benchmark_smells\\Benchmark_smells.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tarcisio.veloso\\.nuget\\packages\\benchmarkdotnet\\0.13.2\\benchmarkdotnet.0.13.2.nupkg.sha512",
     "C:\\Users\\Tarcisio.veloso\\.nuget\\packages\\benchmarkdotnet.annotations\\0.13.2\\benchmarkdotnet.annotations.0.13.2.nupkg.sha512",
