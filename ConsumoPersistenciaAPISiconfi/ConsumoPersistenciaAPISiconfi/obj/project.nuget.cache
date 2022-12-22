@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T0xYIdEBTujRNJfbFMx2yGJbu8bE8OAahVIZr553EmqzXlLj4YeaCIJfaapHPQKstbF5hirgP24X8v7e4HW0vQ==",
+  "dgSpecHash": "BIxD/986YpKkzRg+/nrQPRkQM3aQ5kFePMkw6XRzlURjjvJjKsfe8GvpOI9rUTrkf+5xi0AQ6fhoGdtlryQDqA==",
   "success": false,
-  "projectFilePath": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\ConsumoPersistenciaAPISiconfi\\ConsumoPersistenciaAPISiconfi\\ConsumoPersistenciaAPISiconfi.csproj",
+  "projectFilePath": "c:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\ConsumoPersistenciaAPISiconfi\\ConsumoPersistenciaAPISiconfi\\ConsumoPersistenciaAPISiconfi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tarcisio.veloso\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Tarcisio.veloso\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

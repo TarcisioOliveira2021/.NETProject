@@ -6435,11 +6435,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\ConsumoPersistenciaAPISiconfi\\ConsumoPersistenciaAPISiconfi\\ConsumoPersistenciaAPISiconfi.csproj",
+      "projectUniqueName": "c:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\ConsumoPersistenciaAPISiconfi\\ConsumoPersistenciaAPISiconfi\\ConsumoPersistenciaAPISiconfi.csproj",
       "projectName": "ConsumoPersistenciaAPISiconfi",
-      "projectPath": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\ConsumoPersistenciaAPISiconfi\\ConsumoPersistenciaAPISiconfi\\ConsumoPersistenciaAPISiconfi.csproj",
+      "projectPath": "c:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\ConsumoPersistenciaAPISiconfi\\ConsumoPersistenciaAPISiconfi\\ConsumoPersistenciaAPISiconfi.csproj",
       "packagesPath": "C:\\Users\\Tarcisio.veloso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\ConsumoPersistenciaAPISiconfi\\ConsumoPersistenciaAPISiconfi\\obj\\",
+      "outputPath": "c:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\ConsumoPersistenciaAPISiconfi\\ConsumoPersistenciaAPISiconfi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tarcisio.veloso\\AppData\\Roaming\\NuGet\\NuGet.Config",
