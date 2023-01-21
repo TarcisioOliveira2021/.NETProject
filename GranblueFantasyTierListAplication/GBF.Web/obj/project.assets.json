@@ -1,0 +1,135 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "GBF.Entity/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "GBF.Repository": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/GBF.Entity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GBF.Entity.dll": {}
+        }
+      },
+      "GBF.Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/GBF.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GBF.Repository.dll": {}
+        }
+      },
+      "GBF.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "GBF.Entity": "1.0.0",
+          "GBF.Repository": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/GBF.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GBF.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GBF.Entity/1.0.0": {
+      "type": "project",
+      "path": "../GBF.Entity/GBF.Entity.csproj",
+      "msbuildProject": "../GBF.Entity/GBF.Entity.csproj"
+    },
+    "GBF.Repository/1.0.0": {
+      "type": "project",
+      "path": "../GBF.Repository/GBF.Repository.csproj",
+      "msbuildProject": "../GBF.Repository/GBF.Repository.csproj"
+    },
+    "GBF.Service/1.0.0": {
+      "type": "project",
+      "path": "../GBF.Service/GBF.Service.csproj",
+      "msbuildProject": "../GBF.Service/GBF.Service.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "GBF.Entity >= 1.0.0",
+      "GBF.Service >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\nxzer\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\.NETProject\\GranblueFantasyTierListAplication\\GBF.Web\\GBF.Web.csproj",
+      "projectName": "GBF.Web",
+      "projectPath": "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\.NETProject\\GranblueFantasyTierListAplication\\GBF.Web\\GBF.Web.csproj",
+      "packagesPath": "C:\\Users\\nxzer\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\.NETProject\\GranblueFantasyTierListAplication\\GBF.Web\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\nxzer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\.NETProject\\GranblueFantasyTierListAplication\\GBF.Entity\\GBF.Entity.csproj": {
+              "projectPath": "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\.NETProject\\GranblueFantasyTierListAplication\\GBF.Entity\\GBF.Entity.csproj"
+            },
+            "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\.NETProject\\GranblueFantasyTierListAplication\\GBF.Service\\GBF.Service.csproj": {
+              "projectPath": "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\.NETProject\\GranblueFantasyTierListAplication\\GBF.Service\\GBF.Service.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
