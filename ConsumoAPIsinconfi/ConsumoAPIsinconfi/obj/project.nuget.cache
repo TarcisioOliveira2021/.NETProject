@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "05SCTMcco2EDNgPKRNszOltbrSHvIIcq3GM+mfnWEL3wZhPv3/rnYQORvvOZL85vAqOtbnlLpGh/oispuRZNBw==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\ConsumoAPIsinconfi\\ConsumoAPIsinconfi\\ConsumoAPIsinconfi.csproj",
+=======
   "dgSpecHash": "JGfF27kOsY+KHdgjdMzzPZQ9NBu27kZ0cqqtsVyaCUC+fL5rcgbng4ByOW82Dzd16z8lrrqgfEah2/wROAkaWg==",
   "success": true,
   "projectFilePath": "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\.NETProject\\ConsumoAPIsinconfi\\ConsumoAPIsinconfi\\ConsumoAPIsinconfi.csproj",
+>>>>>>> f9478b013d6d4dfdea0405c7ec23842d0fd881c3
   "expectedPackageFiles": [
     "C:\\Users\\nxzer\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\nxzer\\.nuget\\packages\\microsoft.netcore.platforms\\1.0.1\\microsoft.netcore.platforms.1.0.1.nupkg.sha512",

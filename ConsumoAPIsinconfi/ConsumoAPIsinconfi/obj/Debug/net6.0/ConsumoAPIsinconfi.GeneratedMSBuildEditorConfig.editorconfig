@@ -8,4 +8,8 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ConsumoAPIsinconfi
+<<<<<<< HEAD
+build_property.ProjectDir = c:\Users\Tarcisio.veloso\Desktop\.NETProject\ConsumoAPIsinconfi\ConsumoAPIsinconfi\
+=======
 build_property.ProjectDir = C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\ConsumoAPIsinconfi\ConsumoAPIsinconfi\
+>>>>>>> f9478b013d6d4dfdea0405c7ec23842d0fd881c3

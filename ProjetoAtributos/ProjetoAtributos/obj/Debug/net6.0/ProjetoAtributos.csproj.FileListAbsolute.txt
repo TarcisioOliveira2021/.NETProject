@@ -1,0 +1,15 @@
+C:\Users\Tarcisio.veloso\Desktop\.NETProject\ProjetoAtributos\ProjetoAtributos\bin\Debug\net6.0\ProjetoAtributos.exe
+C:\Users\Tarcisio.veloso\Desktop\.NETProject\ProjetoAtributos\ProjetoAtributos\bin\Debug\net6.0\ProjetoAtributos.deps.json
+C:\Users\Tarcisio.veloso\Desktop\.NETProject\ProjetoAtributos\ProjetoAtributos\bin\Debug\net6.0\ProjetoAtributos.runtimeconfig.json
+C:\Users\Tarcisio.veloso\Desktop\.NETProject\ProjetoAtributos\ProjetoAtributos\bin\Debug\net6.0\ProjetoAtributos.dll
+C:\Users\Tarcisio.veloso\Desktop\.NETProject\ProjetoAtributos\ProjetoAtributos\bin\Debug\net6.0\ProjetoAtributos.pdb
+C:\Users\Tarcisio.veloso\Desktop\.NETProject\ProjetoAtributos\ProjetoAtributos\obj\Debug\net6.0\ProjetoAtributos.csproj.AssemblyReference.cache
+C:\Users\Tarcisio.veloso\Desktop\.NETProject\ProjetoAtributos\ProjetoAtributos\obj\Debug\net6.0\ProjetoAtributos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarcisio.veloso\Desktop\.NETProject\ProjetoAtributos\ProjetoAtributos\obj\Debug\net6.0\ProjetoAtributos.AssemblyInfoInputs.cache
+C:\Users\Tarcisio.veloso\Desktop\.NETProject\ProjetoAtributos\ProjetoAtributos\obj\Debug\net6.0\ProjetoAtributos.AssemblyInfo.cs
+C:\Users\Tarcisio.veloso\Desktop\.NETProject\ProjetoAtributos\ProjetoAtributos\obj\Debug\net6.0\ProjetoAtributos.csproj.CoreCompileInputs.cache
+C:\Users\Tarcisio.veloso\Desktop\.NETProject\ProjetoAtributos\ProjetoAtributos\obj\Debug\net6.0\ProjetoAtributos.dll
+C:\Users\Tarcisio.veloso\Desktop\.NETProject\ProjetoAtributos\ProjetoAtributos\obj\Debug\net6.0\refint\ProjetoAtributos.dll
+C:\Users\Tarcisio.veloso\Desktop\.NETProject\ProjetoAtributos\ProjetoAtributos\obj\Debug\net6.0\ProjetoAtributos.pdb
+C:\Users\Tarcisio.veloso\Desktop\.NETProject\ProjetoAtributos\ProjetoAtributos\obj\Debug\net6.0\ProjetoAtributos.genruntimeconfig.cache
+C:\Users\Tarcisio.veloso\Desktop\.NETProject\ProjetoAtributos\ProjetoAtributos\obj\Debug\net6.0\ref\ProjetoAtributos.dll
