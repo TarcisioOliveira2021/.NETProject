@@ -1,0 +1,12 @@
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\GranblueFantasyTierListAplication\GBF.Repository\bin\Debug\net6.0\GBF.Repository.deps.json
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\GranblueFantasyTierListAplication\GBF.Repository\bin\Debug\net6.0\GBF.Repository.dll
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\GranblueFantasyTierListAplication\GBF.Repository\bin\Debug\net6.0\GBF.Repository.pdb
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\GranblueFantasyTierListAplication\GBF.Repository\obj\Debug\net6.0\GBF.Repository.csproj.AssemblyReference.cache
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\GranblueFantasyTierListAplication\GBF.Repository\obj\Debug\net6.0\GBF.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\GranblueFantasyTierListAplication\GBF.Repository\obj\Debug\net6.0\GBF.Repository.AssemblyInfoInputs.cache
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\GranblueFantasyTierListAplication\GBF.Repository\obj\Debug\net6.0\GBF.Repository.AssemblyInfo.cs
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\GranblueFantasyTierListAplication\GBF.Repository\obj\Debug\net6.0\GBF.Repository.csproj.CoreCompileInputs.cache
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\GranblueFantasyTierListAplication\GBF.Repository\obj\Debug\net6.0\GBF.Repository.dll
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\GranblueFantasyTierListAplication\GBF.Repository\obj\Debug\net6.0\refint\GBF.Repository.dll
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\GranblueFantasyTierListAplication\GBF.Repository\obj\Debug\net6.0\GBF.Repository.pdb
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\GranblueFantasyTierListAplication\GBF.Repository\obj\Debug\net6.0\ref\GBF.Repository.dll

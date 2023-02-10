@@ -1,0 +1,17 @@
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\GranblueFantasyTierListAplication\GBF.Service\bin\Debug\net6.0\GBF.Service.deps.json
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\GranblueFantasyTierListAplication\GBF.Service\bin\Debug\net6.0\GBF.Service.dll
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\GranblueFantasyTierListAplication\GBF.Service\bin\Debug\net6.0\GBF.Service.pdb
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\GranblueFantasyTierListAplication\GBF.Service\bin\Debug\net6.0\GBF.Entity.dll
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\GranblueFantasyTierListAplication\GBF.Service\bin\Debug\net6.0\GBF.Repository.dll
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\GranblueFantasyTierListAplication\GBF.Service\bin\Debug\net6.0\GBF.Entity.pdb
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\GranblueFantasyTierListAplication\GBF.Service\bin\Debug\net6.0\GBF.Repository.pdb
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\GranblueFantasyTierListAplication\GBF.Service\obj\Debug\net6.0\GBF.Service.csproj.AssemblyReference.cache
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\GranblueFantasyTierListAplication\GBF.Service\obj\Debug\net6.0\GBF.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\GranblueFantasyTierListAplication\GBF.Service\obj\Debug\net6.0\GBF.Service.AssemblyInfoInputs.cache
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\GranblueFantasyTierListAplication\GBF.Service\obj\Debug\net6.0\GBF.Service.AssemblyInfo.cs
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\GranblueFantasyTierListAplication\GBF.Service\obj\Debug\net6.0\GBF.Service.csproj.CoreCompileInputs.cache
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\GranblueFantasyTierListAplication\GBF.Service\obj\Debug\net6.0\GBF.Service.csproj.CopyComplete
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\GranblueFantasyTierListAplication\GBF.Service\obj\Debug\net6.0\GBF.Service.dll
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\GranblueFantasyTierListAplication\GBF.Service\obj\Debug\net6.0\refint\GBF.Service.dll
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\GranblueFantasyTierListAplication\GBF.Service\obj\Debug\net6.0\GBF.Service.pdb
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\GranblueFantasyTierListAplication\GBF.Service\obj\Debug\net6.0\ref\GBF.Service.dll

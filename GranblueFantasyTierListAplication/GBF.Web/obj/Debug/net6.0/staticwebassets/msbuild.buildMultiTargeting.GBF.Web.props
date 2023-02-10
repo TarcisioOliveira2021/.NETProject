@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GBF.Web.props" />
+</Project>

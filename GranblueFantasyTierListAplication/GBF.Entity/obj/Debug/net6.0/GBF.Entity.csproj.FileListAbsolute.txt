@@ -1,0 +1,15 @@
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\GranblueFantasyTierListAplication\GBF.Entity\bin\Debug\net6.0\GBF.Entity.deps.json
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\GranblueFantasyTierListAplication\GBF.Entity\bin\Debug\net6.0\GBF.Entity.dll
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\GranblueFantasyTierListAplication\GBF.Entity\bin\Debug\net6.0\GBF.Entity.pdb
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\GranblueFantasyTierListAplication\GBF.Entity\bin\Debug\net6.0\GBF.Repository.dll
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\GranblueFantasyTierListAplication\GBF.Entity\bin\Debug\net6.0\GBF.Repository.pdb
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\GranblueFantasyTierListAplication\GBF.Entity\obj\Debug\net6.0\GBF.Entity.csproj.AssemblyReference.cache
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\GranblueFantasyTierListAplication\GBF.Entity\obj\Debug\net6.0\GBF.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\GranblueFantasyTierListAplication\GBF.Entity\obj\Debug\net6.0\GBF.Entity.AssemblyInfoInputs.cache
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\GranblueFantasyTierListAplication\GBF.Entity\obj\Debug\net6.0\GBF.Entity.AssemblyInfo.cs
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\GranblueFantasyTierListAplication\GBF.Entity\obj\Debug\net6.0\GBF.Entity.csproj.CoreCompileInputs.cache
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\GranblueFantasyTierListAplication\GBF.Entity\obj\Debug\net6.0\GBF.Entity.csproj.CopyComplete
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\GranblueFantasyTierListAplication\GBF.Entity\obj\Debug\net6.0\GBF.Entity.dll
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\GranblueFantasyTierListAplication\GBF.Entity\obj\Debug\net6.0\refint\GBF.Entity.dll
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\GranblueFantasyTierListAplication\GBF.Entity\obj\Debug\net6.0\GBF.Entity.pdb
+C:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\GranblueFantasyTierListAplication\GBF.Entity\obj\Debug\net6.0\ref\GBF.Entity.dll

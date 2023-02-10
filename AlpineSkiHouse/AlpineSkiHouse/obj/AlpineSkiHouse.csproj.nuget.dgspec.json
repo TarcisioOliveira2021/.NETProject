@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nxzer\\source\\repos\\AlpineSkiHouse\\AlpineSkiHouse\\AlpineSkiHouse.csproj": {}
+    "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\.NETProject\\AlpineSkiHouse\\AlpineSkiHouse\\AlpineSkiHouse.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nxzer\\source\\repos\\AlpineSkiHouse\\AlpineSkiHouse\\AlpineSkiHouse.csproj": {
+    "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\.NETProject\\AlpineSkiHouse\\AlpineSkiHouse\\AlpineSkiHouse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nxzer\\source\\repos\\AlpineSkiHouse\\AlpineSkiHouse\\AlpineSkiHouse.csproj",
+        "projectUniqueName": "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\.NETProject\\AlpineSkiHouse\\AlpineSkiHouse\\AlpineSkiHouse.csproj",
         "projectName": "AlpineSkiHouse",
-        "projectPath": "C:\\Users\\nxzer\\source\\repos\\AlpineSkiHouse\\AlpineSkiHouse\\AlpineSkiHouse.csproj",
+        "projectPath": "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\.NETProject\\AlpineSkiHouse\\AlpineSkiHouse\\AlpineSkiHouse.csproj",
         "packagesPath": "C:\\Users\\nxzer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nxzer\\source\\repos\\AlpineSkiHouse\\AlpineSkiHouse\\obj\\",
+        "outputPath": "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\.NETProject\\AlpineSkiHouse\\AlpineSkiHouse\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nxzer\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,8 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://www.nuget.org/packages": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -59,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

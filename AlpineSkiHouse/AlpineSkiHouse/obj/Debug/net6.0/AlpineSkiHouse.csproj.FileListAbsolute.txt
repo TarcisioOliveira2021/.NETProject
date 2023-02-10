@@ -29,3 +29,34 @@ C:\Users\nxzer\source\repos\AlpineSkiHouse\AlpineSkiHouse\obj\Debug\net6.0\refin
 C:\Users\nxzer\source\repos\AlpineSkiHouse\AlpineSkiHouse\obj\Debug\net6.0\AlpineSkiHouse.pdb
 C:\Users\nxzer\source\repos\AlpineSkiHouse\AlpineSkiHouse\obj\Debug\net6.0\AlpineSkiHouse.genruntimeconfig.cache
 C:\Users\nxzer\source\repos\AlpineSkiHouse\AlpineSkiHouse\obj\Debug\net6.0\ref\AlpineSkiHouse.dll
+c:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\AlpineSkiHouse\AlpineSkiHouse\bin\Debug\net6.0\appsettings.Development.json
+c:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\AlpineSkiHouse\AlpineSkiHouse\bin\Debug\net6.0\appsettings.json
+c:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\AlpineSkiHouse\AlpineSkiHouse\bin\Debug\net6.0\AlpineSkiHouse.staticwebassets.runtime.json
+c:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\AlpineSkiHouse\AlpineSkiHouse\bin\Debug\net6.0\AlpineSkiHouse.exe
+c:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\AlpineSkiHouse\AlpineSkiHouse\bin\Debug\net6.0\AlpineSkiHouse.deps.json
+c:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\AlpineSkiHouse\AlpineSkiHouse\bin\Debug\net6.0\AlpineSkiHouse.runtimeconfig.json
+c:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\AlpineSkiHouse\AlpineSkiHouse\bin\Debug\net6.0\AlpineSkiHouse.dll
+c:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\AlpineSkiHouse\AlpineSkiHouse\bin\Debug\net6.0\AlpineSkiHouse.pdb
+c:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\AlpineSkiHouse\AlpineSkiHouse\obj\Debug\net6.0\AlpineSkiHouse.csproj.AssemblyReference.cache
+c:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\AlpineSkiHouse\AlpineSkiHouse\obj\Debug\net6.0\AlpineSkiHouse.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\AlpineSkiHouse\AlpineSkiHouse\obj\Debug\net6.0\AlpineSkiHouse.AssemblyInfoInputs.cache
+c:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\AlpineSkiHouse\AlpineSkiHouse\obj\Debug\net6.0\AlpineSkiHouse.AssemblyInfo.cs
+c:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\AlpineSkiHouse\AlpineSkiHouse\obj\Debug\net6.0\AlpineSkiHouse.csproj.CoreCompileInputs.cache
+c:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\AlpineSkiHouse\AlpineSkiHouse\obj\Debug\net6.0\AlpineSkiHouse.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\AlpineSkiHouse\AlpineSkiHouse\obj\Debug\net6.0\AlpineSkiHouse.RazorAssemblyInfo.cache
+c:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\AlpineSkiHouse\AlpineSkiHouse\obj\Debug\net6.0\AlpineSkiHouse.RazorAssemblyInfo.cs
+c:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\AlpineSkiHouse\AlpineSkiHouse\obj\Debug\net6.0\staticwebassets\msbuild.AlpineSkiHouse.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\AlpineSkiHouse\AlpineSkiHouse\obj\Debug\net6.0\staticwebassets\msbuild.build.AlpineSkiHouse.props
+c:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\AlpineSkiHouse\AlpineSkiHouse\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AlpineSkiHouse.props
+c:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\AlpineSkiHouse\AlpineSkiHouse\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AlpineSkiHouse.props
+c:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\AlpineSkiHouse\AlpineSkiHouse\obj\Debug\net6.0\staticwebassets.pack.json
+c:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\AlpineSkiHouse\AlpineSkiHouse\obj\Debug\net6.0\staticwebassets.build.json
+c:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\AlpineSkiHouse\AlpineSkiHouse\obj\Debug\net6.0\staticwebassets.development.json
+c:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\AlpineSkiHouse\AlpineSkiHouse\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+c:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\AlpineSkiHouse\AlpineSkiHouse\obj\Debug\net6.0\scopedcss\bundle\AlpineSkiHouse.styles.css
+c:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\AlpineSkiHouse\AlpineSkiHouse\obj\Debug\net6.0\scopedcss\projectbundle\AlpineSkiHouse.bundle.scp.css
+c:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\AlpineSkiHouse\AlpineSkiHouse\obj\Debug\net6.0\AlpineSkiHouse.dll
+c:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\AlpineSkiHouse\AlpineSkiHouse\obj\Debug\net6.0\refint\AlpineSkiHouse.dll
+c:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\AlpineSkiHouse\AlpineSkiHouse\obj\Debug\net6.0\AlpineSkiHouse.pdb
+c:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\AlpineSkiHouse\AlpineSkiHouse\obj\Debug\net6.0\AlpineSkiHouse.genruntimeconfig.cache
+c:\Users\nxzer\OneDrive\Área de Trabalho\.NETProject\AlpineSkiHouse\AlpineSkiHouse\obj\Debug\net6.0\ref\AlpineSkiHouse.dll

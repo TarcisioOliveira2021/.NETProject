@@ -1,18 +1,36 @@
 ﻿@page "/counter"
+@using GBF.Web.Model;
 
-<PageTitle>Counter</PageTitle>
+<PageTitle>Teste DatePicker</PageTitle>
 
-<h1>Counter</h1>
-
-<p role="status">Current count: @currentCount</p>
-
-<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+<div>
+    <EditForm Model="@calendario">
+        <InputSelect @bind-Value="@calendario.ano">
+            <option selected disabled>Selecione o Exercício</option>
+           @foreach (var item in anos)
+            {
+                <option value="@item">@item</option>
+            }
+        </InputSelect>
+    </EditForm>
+</div>
+@calendario.ano
 
 @code {
     private int currentCount = 0;
+    private Calendario calendario = new();
+    private List<int> anos = new();
 
-    private void IncrementCount()
+
+    protected override void OnInitialized()
     {
-        currentCount++;
+        calendario.data = DateTime.Now;
+        string dataAtual = calendario.data.Year.ToString();
+
+
+        for (int i = 2013; i < int.Parse(dataAtual); i++)
+        {
+            anos.Add(i);
+        }
     }
 }
