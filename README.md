@@ -29,6 +29,9 @@
 <h3><a href="https://github.com/TarcisioOliveira2021/.NETProject/tree/main/ContosoPizza">ContosoPizza</a></h3>
 <p> Projeto API em MVC para CRUD de pizzas.</p>
 
+<h3><a href="https://github.com/TarcisioOliveira2021/.NETProject/tree/main/RazorPagesPizza">RazorPagesPizza</a></h3>
+<p> Aplicação de delivery para pedir uma pizza usando blazor.</p>
+
 <h3><a href="https://github.com/TarcisioOliveira2021/.NETProject/tree/main/MapsterTest">MapsterTest</a></h3>
 <p> Uso do Mappester para mapeamento de objetos usando um projeto em arquitetura "Entidade-Repositorio-Servico".</p>
 
@@ -39,12 +42,30 @@
 <p> Aplicação para cadastro de clientes usando blazor/razor e MVC usadas para comparar as duas "Arquiteturas".</p>
 
 <h3><a href="https://github.com/TarcisioOliveira2021/.NETProject/tree/main/PetaPocoProject">PetaPoco Project</a></h3>
-<p> Continuo aqui.</p>
+<p> Aplicação de teste para desenvolvimento usando o Micro-ORM Peta pocco para mapeamento de entidades.</p>
 
-<h3><a href="https://github.com/TarcisioOliveira2021/.NETProject/tree/main/HelloWord">Hello Word</a></h3>
-<p> O nome já diz tudo kk.</p>
+<h3><a href="https://github.com/TarcisioOliveira2021/.NETProject/tree/main/TestDapper">TestDapper Project</a></h3>
+<p> Aplicação de teste para desenvolvimento usando o Micro-ORM Dapper para mapeamento de entidades.</p>
+
+<h3><a href="https://github.com/TarcisioOliveira2021/.NETProject/tree/main/ProjetoAtributos">Projeto Atributos</a></h3>
+<p> Projeto feito para treinar conceitos de Atributos em C#.</p>
+
+<h3><a href="https://github.com/TarcisioOliveira2021/.NETProject/tree/main/TDDXUnit">TDD XUnit</a></h3>
+<p> Projeto para práticar/aplicar fundamentos de desenvolvimento orientado a testes usando XUnit.</p>
+
+<h3><a href="https://github.com/TarcisioOliveira2021/.NETProject/tree/main/testesXunit">testesXunit </a></h3>
+<p> Projeto para treinar ainda mais a aplicação de testes.</p>
+
+<h3><a href="https://github.com/TarcisioOliveira2021/.NETProject/tree/main/TesteUnitarioDummies_AutoFixture">TesteUnitarioDummies_AutoFixture</a></h3>
+<p> Usando conceito de "mock(dublê,spy,etc)" para testes unitários.</p>
+
+<h3><a href="https://github.com/TarcisioOliveira2021/.NETProject/tree/main/RateLimiting">Projeto RateLimiting (INCOMPLETO)</a></h3>
+<p> Projeto feito para treinar uso de Rate limiting para "limitar" API.</p>
+
 
 <h3><a href="https://github.com/TarcisioOliveira2021/.NETProject/tree/main/AlpineSkiHouse">Alpine Sky House </a></h3>
 <p> Projeto básico usando Web SDK.</p>
 
+<h3><a href="https://github.com/TarcisioOliveira2021/.NETProject/tree/main/HelloWord">Hello Word</a></h3>
+<p> O nome já diz tudo kk.</p>
 
