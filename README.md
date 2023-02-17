@@ -54,7 +54,7 @@
 <p> Projeto para práticar/aplicar fundamentos de desenvolvimento orientado a testes usando XUnit.</p>
 
 <h3><a href="https://github.com/TarcisioOliveira2021/.NETProject/tree/main/testesXunit">testesXunit </a></h3>
-<p> Projeto para treinar ainda mais a aplicação de testes.</p>
+<p> Projeto para explorar ainda mais os conceitos de testes.</p>
 
 <h3><a href="https://github.com/TarcisioOliveira2021/.NETProject/tree/main/TesteUnitarioDummies_AutoFixture">TesteUnitarioDummies_AutoFixture</a></h3>
 <p> Usando conceito de "mock(dublê,spy,etc)" para testes unitários.</p>
