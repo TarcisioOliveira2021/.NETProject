@@ -1,0 +1,2 @@
+Para chegar na rota do swagger basta digitar /swagger.
+https://www.luisdev.com.br/2023/01/24/documentando-apis-asp-net-core-com-swagger/
