@@ -1,13 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "jlqpMxyeMeS6p8OIBvEafXT8D09jtiMvvHrxfolRjRXym1NeEzL7LkWfLX9LNbwiJxOTAZQEW+wOnL6E2ScRBg==",
+  "dgSpecHash": "9tFxSzszVqOn0P4GcazriJbtbfz2ZfsmqiT2yIOiWRkt+Hegww9uwCc03E1QBwz9gAaUHlX3/fxV6/dPwu76hQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\DocumentandoAPis\\DocumentandoAPis.csproj",
+  "projectFilePath": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\MeuChatGPT\\MeuChatGPT.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tarcisio.veloso\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Tarcisio.veloso\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Tarcisio.veloso\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\Tarcisio.veloso\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
-    "C:\\Users\\Tarcisio.veloso\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Tarcisio.veloso\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\Tarcisio.veloso\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
     "C:\\Users\\Tarcisio.veloso\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
   ],

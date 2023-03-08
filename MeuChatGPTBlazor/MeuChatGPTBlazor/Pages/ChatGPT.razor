@@ -1,0 +1,34 @@
+﻿@page "/gpt"
+
+@inject IChatService chatservice;
+
+<EditForm Model="requestInputModel">
+    <PageTitle>ChatGPTelson</PageTitle>
+    <div class=container>
+        <h1>Consulte o GPT</h1>
+        <InputText @bind-Value="requestInputModel.prompt"></InputText>
+        <button class="btn-primary" @onclick="Carregar">Enviar</button>
+        <Spinner IsLoading="@IsLoading"></Spinner>
+        <p>@texto</p>
+    </div>
+
+</EditForm>
+
+
+@code {
+    RequestInputModel requestInputModel = new("");
+    public string texto = string.Empty;
+    public bool IsLoading = false;
+
+    async Task Carregar()
+    {
+        IsLoading = true;
+        var result = await chatservice.Get(requestInputModel.prompt);
+        texto = result;
+        if (Task.CompletedTask.IsCompleted)
+        {
+            IsLoading = false;
+        }
+
+    }
+}

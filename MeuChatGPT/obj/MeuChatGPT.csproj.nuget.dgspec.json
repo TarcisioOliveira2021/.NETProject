@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\DocumentandoAPis\\DocumentandoAPis.csproj": {}
+    "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\MeuChatGPT\\MeuChatGPT.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\DocumentandoAPis\\DocumentandoAPis.csproj": {
+    "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\MeuChatGPT\\MeuChatGPT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\DocumentandoAPis\\DocumentandoAPis.csproj",
-        "projectName": "DocumentandoAPis",
-        "projectPath": "c:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\DocumentandoAPis\\DocumentandoAPis.csproj",
+        "projectUniqueName": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\MeuChatGPT\\MeuChatGPT.csproj",
+        "projectName": "MeuChatGPT",
+        "projectPath": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\MeuChatGPT\\MeuChatGPT.csproj",
         "packagesPath": "C:\\Users\\Tarcisio.veloso\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\DocumentandoAPis\\obj\\",
+        "outputPath": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\MeuChatGPT\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tarcisio.veloso\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,13 +40,13 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
-            },
-            "Swashbuckle.AspNetCore.Swagger": {
-              "target": "Package",
-              "version": "[6.5.0, )"
             }
           },
           "imports": [
