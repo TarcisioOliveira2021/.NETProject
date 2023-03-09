@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>AplicacaoBlazorConsumoAPI_DALLE</RootNamespace>
+    <UserSecretsId>c9b513d1-d618-4ac1-9d5f-2c93a2d47901</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="jQuery" Version="3.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Aplicacao.Entity\Aplicacao.Entity.csproj" />
+    <ProjectReference Include="..\Aplicacao.Service\Aplicacao.Service.csproj" />
+  </ItemGroup>
+
+</Project>

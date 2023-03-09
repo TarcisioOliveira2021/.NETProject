@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+    <h1>Consumo API DAll-E</h1>
+    <textarea class="form-control" id="texto" style="width:500px;" placeholder="Digite o seu texto aqui."></textarea>
+
+    <input type="number" value="1" placeholder="Informe a quantidade de imagens que deseja gerar." id="img-qtd" />
+
+    <select id="img-tamanho">
+        <option selected>256x256</option>
+        <option >512x512</option>
+        <option >1024x1024</option>
+    </select>
+
+    <button id="btn">
+        Gerar imagem
+    </button>
+    <br />
+    
+    <div id="display" class="col-md-12 row"></div>
+

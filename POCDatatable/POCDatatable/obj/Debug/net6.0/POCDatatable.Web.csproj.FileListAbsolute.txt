@@ -1,0 +1,8 @@
+C:\Users\nxzer\OneDrive\Área de Trabalho\POCDatatable\POCDatatable\obj\Debug\net6.0\POCDatatable.Web.csproj.AssemblyReference.cache
+C:\Users\nxzer\OneDrive\Área de Trabalho\POCDatatable\POCDatatable\obj\Debug\net6.0\POCDatatable.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nxzer\OneDrive\Área de Trabalho\POCDatatable\POCDatatable\obj\Debug\net6.0\POCDatatable.Web.AssemblyInfoInputs.cache
+C:\Users\nxzer\OneDrive\Área de Trabalho\POCDatatable\POCDatatable\obj\Debug\net6.0\POCDatatable.Web.AssemblyInfo.cs
+C:\Users\nxzer\OneDrive\Área de Trabalho\POCDatatable\POCDatatable\obj\Debug\net6.0\POCDatatable.Web.csproj.CoreCompileInputs.cache
+C:\Users\nxzer\OneDrive\Área de Trabalho\POCDatatable\POCDatatable\obj\Debug\net6.0\POCDatatable.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nxzer\OneDrive\Área de Trabalho\POCDatatable\POCDatatable\obj\Debug\net6.0\POCDatatable.Web.RazorAssemblyInfo.cache
+C:\Users\nxzer\OneDrive\Área de Trabalho\POCDatatable\POCDatatable\obj\Debug\net6.0\POCDatatable.Web.RazorAssemblyInfo.cs

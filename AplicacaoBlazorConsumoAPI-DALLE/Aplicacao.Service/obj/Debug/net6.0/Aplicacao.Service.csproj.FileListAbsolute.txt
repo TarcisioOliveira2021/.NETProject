@@ -1,0 +1,15 @@
+C:\Users\nxzer\OneDrive\Área de Trabalho\AplicacaoBlazorConsumoAPI-DALLE\Aplicacao.Service\bin\Debug\net6.0\Aplicacao.Service.deps.json
+C:\Users\nxzer\OneDrive\Área de Trabalho\AplicacaoBlazorConsumoAPI-DALLE\Aplicacao.Service\bin\Debug\net6.0\Aplicacao.Service.dll
+C:\Users\nxzer\OneDrive\Área de Trabalho\AplicacaoBlazorConsumoAPI-DALLE\Aplicacao.Service\bin\Debug\net6.0\Aplicacao.Service.pdb
+C:\Users\nxzer\OneDrive\Área de Trabalho\AplicacaoBlazorConsumoAPI-DALLE\Aplicacao.Service\bin\Debug\net6.0\Aplicacao.Entity.dll
+C:\Users\nxzer\OneDrive\Área de Trabalho\AplicacaoBlazorConsumoAPI-DALLE\Aplicacao.Service\bin\Debug\net6.0\Aplicacao.Entity.pdb
+C:\Users\nxzer\OneDrive\Área de Trabalho\AplicacaoBlazorConsumoAPI-DALLE\Aplicacao.Service\obj\Debug\net6.0\Aplicacao.Service.csproj.AssemblyReference.cache
+C:\Users\nxzer\OneDrive\Área de Trabalho\AplicacaoBlazorConsumoAPI-DALLE\Aplicacao.Service\obj\Debug\net6.0\Aplicacao.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nxzer\OneDrive\Área de Trabalho\AplicacaoBlazorConsumoAPI-DALLE\Aplicacao.Service\obj\Debug\net6.0\Aplicacao.Service.AssemblyInfoInputs.cache
+C:\Users\nxzer\OneDrive\Área de Trabalho\AplicacaoBlazorConsumoAPI-DALLE\Aplicacao.Service\obj\Debug\net6.0\Aplicacao.Service.AssemblyInfo.cs
+C:\Users\nxzer\OneDrive\Área de Trabalho\AplicacaoBlazorConsumoAPI-DALLE\Aplicacao.Service\obj\Debug\net6.0\Aplicacao.Service.csproj.CoreCompileInputs.cache
+C:\Users\nxzer\OneDrive\Área de Trabalho\AplicacaoBlazorConsumoAPI-DALLE\Aplicacao.Service\obj\Debug\net6.0\Aplicacao.Service.csproj.CopyComplete
+C:\Users\nxzer\OneDrive\Área de Trabalho\AplicacaoBlazorConsumoAPI-DALLE\Aplicacao.Service\obj\Debug\net6.0\Aplicacao.Service.dll
+C:\Users\nxzer\OneDrive\Área de Trabalho\AplicacaoBlazorConsumoAPI-DALLE\Aplicacao.Service\obj\Debug\net6.0\refint\Aplicacao.Service.dll
+C:\Users\nxzer\OneDrive\Área de Trabalho\AplicacaoBlazorConsumoAPI-DALLE\Aplicacao.Service\obj\Debug\net6.0\Aplicacao.Service.pdb
+C:\Users\nxzer\OneDrive\Área de Trabalho\AplicacaoBlazorConsumoAPI-DALLE\Aplicacao.Service\obj\Debug\net6.0\ref\Aplicacao.Service.dll

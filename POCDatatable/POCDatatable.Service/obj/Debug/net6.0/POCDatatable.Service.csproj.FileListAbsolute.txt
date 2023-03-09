@@ -1,0 +1,15 @@
+C:\Users\nxzer\OneDrive\Área de Trabalho\POCDatatable\POCDatatable.Service\bin\Debug\net6.0\POCDatatable.Service.deps.json
+C:\Users\nxzer\OneDrive\Área de Trabalho\POCDatatable\POCDatatable.Service\bin\Debug\net6.0\POCDatatable.Service.dll
+C:\Users\nxzer\OneDrive\Área de Trabalho\POCDatatable\POCDatatable.Service\bin\Debug\net6.0\POCDatatable.Service.pdb
+C:\Users\nxzer\OneDrive\Área de Trabalho\POCDatatable\POCDatatable.Service\bin\Debug\net6.0\POCDatatable.Entity.dll
+C:\Users\nxzer\OneDrive\Área de Trabalho\POCDatatable\POCDatatable.Service\bin\Debug\net6.0\POCDatatable.Entity.pdb
+C:\Users\nxzer\OneDrive\Área de Trabalho\POCDatatable\POCDatatable.Service\obj\Debug\net6.0\POCDatatable.Service.csproj.AssemblyReference.cache
+C:\Users\nxzer\OneDrive\Área de Trabalho\POCDatatable\POCDatatable.Service\obj\Debug\net6.0\POCDatatable.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nxzer\OneDrive\Área de Trabalho\POCDatatable\POCDatatable.Service\obj\Debug\net6.0\POCDatatable.Service.AssemblyInfoInputs.cache
+C:\Users\nxzer\OneDrive\Área de Trabalho\POCDatatable\POCDatatable.Service\obj\Debug\net6.0\POCDatatable.Service.AssemblyInfo.cs
+C:\Users\nxzer\OneDrive\Área de Trabalho\POCDatatable\POCDatatable.Service\obj\Debug\net6.0\POCDatatable.Service.csproj.CoreCompileInputs.cache
+C:\Users\nxzer\OneDrive\Área de Trabalho\POCDatatable\POCDatatable.Service\obj\Debug\net6.0\POCDatatable.Service.csproj.CopyComplete
+C:\Users\nxzer\OneDrive\Área de Trabalho\POCDatatable\POCDatatable.Service\obj\Debug\net6.0\POCDatatable.Service.dll
+C:\Users\nxzer\OneDrive\Área de Trabalho\POCDatatable\POCDatatable.Service\obj\Debug\net6.0\refint\POCDatatable.Service.dll
+C:\Users\nxzer\OneDrive\Área de Trabalho\POCDatatable\POCDatatable.Service\obj\Debug\net6.0\POCDatatable.Service.pdb
+C:\Users\nxzer\OneDrive\Área de Trabalho\POCDatatable\POCDatatable.Service\obj\Debug\net6.0\ref\POCDatatable.Service.dll

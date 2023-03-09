@@ -1,0 +1,12 @@
+C:\Users\nxzer\OneDrive\Área de Trabalho\AplicacaoBlazorConsumoAPI-DALLE\Aplicacao.Entity\bin\Debug\net6.0\Aplicacao.Entity.deps.json
+C:\Users\nxzer\OneDrive\Área de Trabalho\AplicacaoBlazorConsumoAPI-DALLE\Aplicacao.Entity\bin\Debug\net6.0\Aplicacao.Entity.dll
+C:\Users\nxzer\OneDrive\Área de Trabalho\AplicacaoBlazorConsumoAPI-DALLE\Aplicacao.Entity\bin\Debug\net6.0\Aplicacao.Entity.pdb
+C:\Users\nxzer\OneDrive\Área de Trabalho\AplicacaoBlazorConsumoAPI-DALLE\Aplicacao.Entity\obj\Debug\net6.0\Aplicacao.Entity.csproj.AssemblyReference.cache
+C:\Users\nxzer\OneDrive\Área de Trabalho\AplicacaoBlazorConsumoAPI-DALLE\Aplicacao.Entity\obj\Debug\net6.0\Aplicacao.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nxzer\OneDrive\Área de Trabalho\AplicacaoBlazorConsumoAPI-DALLE\Aplicacao.Entity\obj\Debug\net6.0\Aplicacao.Entity.AssemblyInfoInputs.cache
+C:\Users\nxzer\OneDrive\Área de Trabalho\AplicacaoBlazorConsumoAPI-DALLE\Aplicacao.Entity\obj\Debug\net6.0\Aplicacao.Entity.AssemblyInfo.cs
+C:\Users\nxzer\OneDrive\Área de Trabalho\AplicacaoBlazorConsumoAPI-DALLE\Aplicacao.Entity\obj\Debug\net6.0\Aplicacao.Entity.csproj.CoreCompileInputs.cache
+C:\Users\nxzer\OneDrive\Área de Trabalho\AplicacaoBlazorConsumoAPI-DALLE\Aplicacao.Entity\obj\Debug\net6.0\Aplicacao.Entity.dll
+C:\Users\nxzer\OneDrive\Área de Trabalho\AplicacaoBlazorConsumoAPI-DALLE\Aplicacao.Entity\obj\Debug\net6.0\refint\Aplicacao.Entity.dll
+C:\Users\nxzer\OneDrive\Área de Trabalho\AplicacaoBlazorConsumoAPI-DALLE\Aplicacao.Entity\obj\Debug\net6.0\Aplicacao.Entity.pdb
+C:\Users\nxzer\OneDrive\Área de Trabalho\AplicacaoBlazorConsumoAPI-DALLE\Aplicacao.Entity\obj\Debug\net6.0\ref\Aplicacao.Entity.dll

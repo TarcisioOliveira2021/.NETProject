@@ -1,0 +1,46 @@
+﻿@page "/test"
+@using PSC.Blazor.Components.DataTable
+@inject IJSRuntime JsRuntime
+
+
+<PageTitle>DataTable</PageTitle>
+
+<DataTable TModel="Item" Items="items" UsePaging="true"
+           PageCount="items.Count()"
+           UsePageSizeSelector="true">
+    <DataTableColumn TModel="Item" Property="(e) => e.esfera" CustomTitle="Esfera" IsFilterable="true" />
+    <DataTableColumn TModel="Item" Property="(e) => e.anexo" CustomTitle="Anexo" />
+    <DataTableColumn TModel="Item" Property="(e) => e.demonstrativo" CustomTitle="Demonstrativo" />
+</DataTable>
+
+
+@code {
+    private List<Item> items = new();
+
+    protected override void OnInitialized()
+    {
+        ObterDadosApi();
+    }
+
+    public void ObterDadosApi()
+    {
+        HttpClient client = new HttpClient
+            { BaseAddress = new Uri("https://apidatalake.tesouro.gov.br") };
+
+        var response = client.GetStringAsync("/ords/siconfi/tt/anexos-relatorios");
+        response.Wait();
+
+        var model = JsonConvert.DeserializeObject<DadosBrutosAPI>(response.Result);
+
+        if (model != null)
+        {
+            foreach (var item in model.items)
+            {
+                items.Add(item);
+            }
+
+        }
+
+
+    }
+}

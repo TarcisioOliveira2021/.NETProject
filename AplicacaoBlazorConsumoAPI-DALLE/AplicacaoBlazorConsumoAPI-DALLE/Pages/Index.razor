@@ -1,0 +1,65 @@
+﻿@page "/"
+@inject IAplicacaoService servico
+
+<EditForm Model="dados">
+    <PageTitle>DALL-E App</PageTitle>
+    <div class="container">
+        <h1>Gere aqui sua imagem!</h1>
+
+        <textarea class="form-control" style="width:500px;" placeholder="Digite o seu texto aqui." @bind="dados.prompt"></textarea>
+        <input type="number" style="width:400px;" placeholder="Informe a quantidade de imagens que deseja gerar." @bind="dados.n" /> <br />
+        <select @bind="dados.size" style="margin-top:1rem;">
+            <option selected> Informe o tamanho</option>
+            @foreach (var item in sizeList)
+            {
+                <option>@item</option>
+            }
+        </select><br />
+
+        <button @onclick="CarregarDados" style="margin-top:1rem;">
+            Gerar imagem
+        </button>
+
+        <button @onclick="DeletarDados">
+            Limpar
+        </button>
+
+        <div id="display" class="col-md-12 row">
+            @foreach (var item in linksList)
+            {
+                <div class="col-md-3 p-10" style="padding-top:10px">
+                    <img class="p-10" src="@item.url" />
+                </div>
+            }
+
+        </div>
+
+    </div>
+</EditForm>
+
+
+@code {
+    private DadosEntrada dados = new();
+    private RespostaAPI resp = new();
+    private List<Link> linksList = new();
+    private List<string> sizeList = new string[] { "256x256", "512x512", "1024x1024" }.ToList();
+
+
+    async Task CarregarDados()
+    {
+        resp = await servico.ConsumoAPI(dados);
+
+        if (resp.data != null)
+        {
+            foreach (var item in resp.data)
+            {
+                linksList.Add(item);
+            }
+        }
+    }
+
+    public void DeletarDados()
+    {
+        linksList.Clear();
+    }
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\POCDatatable.Web.props" />
+</Project>
