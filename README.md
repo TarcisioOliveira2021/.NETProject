@@ -20,17 +20,8 @@
 <h3><a href="https://github.com/TarcisioOliveira2021/.NETProject/tree/main/ConsumoAPIsinconfi">Consumo API Siconfi</a></h3>
 <p> Aplicação em console para consumo de API Siconfi e tratamento de resposta em console ou documento de texto externo.</p>
 
-<h3><a href="https://github.com/TarcisioOliveira2021/.NETProject/tree/main/BlazzorFundamentalsNew">Blazzor Fundamentals</a></h3>
-<p> Dois projetos blazor para treinar fundamentos de manipulação de eventos e conceitos de componentes em uma aplicação de delivery de pizzas e outra aplicação simples.</p>
-
 <h3><a href="https://github.com/TarcisioOliveira2021/.NETProject/tree/main/ConsumoPersistenciaAPISiconfi">ConsumoPersistencia APISiconfi</a></h3>
 <p> Projeto usando banco de dados para persistir dados da API Siconfi em um banco de dados usando EntityFramework.</p>
-
-<h3><a href="https://github.com/TarcisioOliveira2021/.NETProject/tree/main/ContosoPizza">ContosoPizza</a></h3>
-<p> Projeto API em MVC para CRUD de pizzas.</p>
-
-<h3><a href="https://github.com/TarcisioOliveira2021/.NETProject/tree/main/RazorPagesPizza">RazorPagesPizza</a></h3>
-<p> Aplicação de delivery para pedir uma pizza usando blazor.</p>
 
 <h3><a href="https://github.com/TarcisioOliveira2021/.NETProject/tree/main/MapsterTest">MapsterTest</a></h3>
 <p> Uso do Mappester para mapeamento de objetos usando um projeto em arquitetura "Entidade-Repositorio-Servico".</p>
@@ -62,6 +53,17 @@
 <h3><a href="https://github.com/TarcisioOliveira2021/.NETProject/tree/main/RateLimiting">Projeto RateLimiting (INCOMPLETO)</a></h3>
 <p> Projeto feito para treinar uso de Rate limiting para "limitar" API.</p>
 
+
+<h1 align="center">Projetos do MSLearn</h1>
+
+<h3><a href="https://github.com/TarcisioOliveira2021/.NETProject/tree/main/ContosoPizza">ContosoPizza</a></h3>
+<p> Projeto API em MVC para CRUD de pizzas.</p>
+
+<h3><a href="https://github.com/TarcisioOliveira2021/.NETProject/tree/main/BlazzorFundamentalsNew">Blazzor Fundamentals</a></h3>
+<p> Dois projetos blazor para treinar fundamentos de manipulação de eventos e conceitos de componentes em uma aplicação de delivery de pizzas e outra aplicação simples.</p>
+
+<h3><a href="https://github.com/TarcisioOliveira2021/.NETProject/tree/main/RazorPagesPizza">RazorPagesPizza</a></h3>
+<p> Aplicação de delivery para pedir uma pizza usando blazor.</p>
 
 <h3><a href="https://github.com/TarcisioOliveira2021/.NETProject/tree/main/AlpineSkiHouse">Alpine Sky House </a></h3>
 <p> Projeto básico usando Web SDK.</p>
