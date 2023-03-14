@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vp/KmcJGvEFTlGksqKC5gi9ucpyZHQ+fNVVy5WPdtfjoXTHI+8O9vTiW2xzJEu80IqI4QMJbwhRYVOs7t1Fpyg==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\POC_CsvReader\\POC_CsvReader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tarcisio.veloso\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
