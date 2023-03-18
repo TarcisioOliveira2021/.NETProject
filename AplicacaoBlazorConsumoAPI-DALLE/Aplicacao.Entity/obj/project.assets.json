@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\AplicacaoBlazorConsumoAPI-DALLE\\Aplicacao.Entity\\Aplicacao.Entity.csproj",
+      "projectUniqueName": "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\.NETProject\\AplicacaoBlazorConsumoAPI-DALLE\\Aplicacao.Entity\\Aplicacao.Entity.csproj",
       "projectName": "Aplicacao.Entity",
-      "projectPath": "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\AplicacaoBlazorConsumoAPI-DALLE\\Aplicacao.Entity\\Aplicacao.Entity.csproj",
+      "projectPath": "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\.NETProject\\AplicacaoBlazorConsumoAPI-DALLE\\Aplicacao.Entity\\Aplicacao.Entity.csproj",
       "packagesPath": "C:\\Users\\nxzer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\AplicacaoBlazorConsumoAPI-DALLE\\Aplicacao.Entity\\obj\\",
+      "outputPath": "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\.NETProject\\AplicacaoBlazorConsumoAPI-DALLE\\Aplicacao.Entity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nxzer\\AppData\\Roaming\\NuGet\\NuGet.Config",
