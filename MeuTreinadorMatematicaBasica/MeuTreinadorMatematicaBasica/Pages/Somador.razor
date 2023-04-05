@@ -1,0 +1,77 @@
+﻿@page "/soma"
+
+
+<PageTitle>Treinamento soma</PageTitle>
+
+<h1>Somador</h1>
+
+<EditForm Model="model">
+    <div class="container">
+        <div>
+            <span>5 minutos para cada questão!!</span>
+            <span>@tempoDeResposta</span>
+        </div>
+
+        <div>
+            <span>@model.Valor1 + @model.Valor2</span>
+            <InputNumber @bind-Value="model.Resposta"></InputNumber>
+        </div>
+
+        <button class="btn btn-primary" @onclick="VerificarSoma">Verificar</button>
+
+        @if (carregarCampoResposta)
+        {
+            <p>Resposta @model.CorretoIncorreto</p>
+        }
+
+    </div>
+</EditForm>
+
+
+@code {
+    private Random random = new();
+    private ViewModelSoma model = new();
+    private bool carregarCampoResposta = false;
+    public int tempoDeResposta = 0;
+    private System.Timers.Timer timer;
+
+
+    private void VerificarSoma()
+    {
+
+        if (model.Valor1 + model.Valor2 == model.Resposta)
+        {
+            model.CorretoIncorreto = "correta !";
+        }
+        else
+        {
+            model.CorretoIncorreto = "incorreta !";
+        }
+
+        carregarCampoResposta = true;
+    }
+
+
+    protected override async Task OnInitializedAsync()
+    {
+        carregarCampoResposta = false;
+        model.Valor1 = random.Next(1, 1000);
+        model.Valor2 = random.Next(1, 1000);
+
+        timer = new System.Timers.Timer(1000);
+        timer.Elapsed += (sender, args) =>
+        {
+            tempoDeResposta++;
+            await InvokeAsync(StateHasChanged);
+            if (tempoDeResposta >= 2)
+            {
+                OnInitialized();
+            }
+        };
+        timer.Start();
+    }
+
+    
+
+ 
+}

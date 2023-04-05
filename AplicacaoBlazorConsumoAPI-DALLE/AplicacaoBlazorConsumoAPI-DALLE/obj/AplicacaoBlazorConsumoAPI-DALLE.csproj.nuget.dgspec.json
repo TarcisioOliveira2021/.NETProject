@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\AplicacaoBlazorConsumoAPI-DALLE\\AplicacaoBlazorConsumoAPI-DALLE\\AplicacaoBlazorConsumoAPI-DALLE.csproj": {}
+    "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\.NETProject\\AplicacaoBlazorConsumoAPI-DALLE\\AplicacaoBlazorConsumoAPI-DALLE\\AplicacaoBlazorConsumoAPI-DALLE.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\AplicacaoBlazorConsumoAPI-DALLE\\Aplicacao.Entity\\Aplicacao.Entity.csproj": {
+    "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\.NETProject\\AplicacaoBlazorConsumoAPI-DALLE\\Aplicacao.Entity\\Aplicacao.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\AplicacaoBlazorConsumoAPI-DALLE\\Aplicacao.Entity\\Aplicacao.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\.NETProject\\AplicacaoBlazorConsumoAPI-DALLE\\Aplicacao.Entity\\Aplicacao.Entity.csproj",
         "projectName": "Aplicacao.Entity",
-        "projectPath": "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\AplicacaoBlazorConsumoAPI-DALLE\\Aplicacao.Entity\\Aplicacao.Entity.csproj",
+        "projectPath": "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\.NETProject\\AplicacaoBlazorConsumoAPI-DALLE\\Aplicacao.Entity\\Aplicacao.Entity.csproj",
         "packagesPath": "C:\\Users\\nxzer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\AplicacaoBlazorConsumoAPI-DALLE\\Aplicacao.Entity\\obj\\",
+        "outputPath": "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\.NETProject\\AplicacaoBlazorConsumoAPI-DALLE\\Aplicacao.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nxzer\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\AplicacaoBlazorConsumoAPI-DALLE\\Aplicacao.Service\\Aplicacao.Service.csproj": {
+    "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\.NETProject\\AplicacaoBlazorConsumoAPI-DALLE\\Aplicacao.Service\\Aplicacao.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\AplicacaoBlazorConsumoAPI-DALLE\\Aplicacao.Service\\Aplicacao.Service.csproj",
+        "projectUniqueName": "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\.NETProject\\AplicacaoBlazorConsumoAPI-DALLE\\Aplicacao.Service\\Aplicacao.Service.csproj",
         "projectName": "Aplicacao.Service",
-        "projectPath": "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\AplicacaoBlazorConsumoAPI-DALLE\\Aplicacao.Service\\Aplicacao.Service.csproj",
+        "projectPath": "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\.NETProject\\AplicacaoBlazorConsumoAPI-DALLE\\Aplicacao.Service\\Aplicacao.Service.csproj",
         "packagesPath": "C:\\Users\\nxzer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\AplicacaoBlazorConsumoAPI-DALLE\\Aplicacao.Service\\obj\\",
+        "outputPath": "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\.NETProject\\AplicacaoBlazorConsumoAPI-DALLE\\Aplicacao.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nxzer\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,8 +83,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\AplicacaoBlazorConsumoAPI-DALLE\\Aplicacao.Entity\\Aplicacao.Entity.csproj": {
-                "projectPath": "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\AplicacaoBlazorConsumoAPI-DALLE\\Aplicacao.Entity\\Aplicacao.Entity.csproj"
+              "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\.NETProject\\AplicacaoBlazorConsumoAPI-DALLE\\Aplicacao.Entity\\Aplicacao.Entity.csproj": {
+                "projectPath": "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\.NETProject\\AplicacaoBlazorConsumoAPI-DALLE\\Aplicacao.Entity\\Aplicacao.Entity.csproj"
               }
             }
           }
@@ -128,14 +128,14 @@
         }
       }
     },
-    "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\AplicacaoBlazorConsumoAPI-DALLE\\AplicacaoBlazorConsumoAPI-DALLE\\AplicacaoBlazorConsumoAPI-DALLE.csproj": {
+    "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\.NETProject\\AplicacaoBlazorConsumoAPI-DALLE\\AplicacaoBlazorConsumoAPI-DALLE\\AplicacaoBlazorConsumoAPI-DALLE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\AplicacaoBlazorConsumoAPI-DALLE\\AplicacaoBlazorConsumoAPI-DALLE\\AplicacaoBlazorConsumoAPI-DALLE.csproj",
+        "projectUniqueName": "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\.NETProject\\AplicacaoBlazorConsumoAPI-DALLE\\AplicacaoBlazorConsumoAPI-DALLE\\AplicacaoBlazorConsumoAPI-DALLE.csproj",
         "projectName": "AplicacaoBlazorConsumoAPI-DALLE",
-        "projectPath": "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\AplicacaoBlazorConsumoAPI-DALLE\\AplicacaoBlazorConsumoAPI-DALLE\\AplicacaoBlazorConsumoAPI-DALLE.csproj",
+        "projectPath": "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\.NETProject\\AplicacaoBlazorConsumoAPI-DALLE\\AplicacaoBlazorConsumoAPI-DALLE\\AplicacaoBlazorConsumoAPI-DALLE.csproj",
         "packagesPath": "C:\\Users\\nxzer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\AplicacaoBlazorConsumoAPI-DALLE\\AplicacaoBlazorConsumoAPI-DALLE\\obj\\",
+        "outputPath": "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\.NETProject\\AplicacaoBlazorConsumoAPI-DALLE\\AplicacaoBlazorConsumoAPI-DALLE\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nxzer\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -152,11 +152,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\AplicacaoBlazorConsumoAPI-DALLE\\Aplicacao.Entity\\Aplicacao.Entity.csproj": {
-                "projectPath": "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\AplicacaoBlazorConsumoAPI-DALLE\\Aplicacao.Entity\\Aplicacao.Entity.csproj"
+              "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\.NETProject\\AplicacaoBlazorConsumoAPI-DALLE\\Aplicacao.Entity\\Aplicacao.Entity.csproj": {
+                "projectPath": "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\.NETProject\\AplicacaoBlazorConsumoAPI-DALLE\\Aplicacao.Entity\\Aplicacao.Entity.csproj"
               },
-              "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\AplicacaoBlazorConsumoAPI-DALLE\\Aplicacao.Service\\Aplicacao.Service.csproj": {
-                "projectPath": "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\AplicacaoBlazorConsumoAPI-DALLE\\Aplicacao.Service\\Aplicacao.Service.csproj"
+              "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\.NETProject\\AplicacaoBlazorConsumoAPI-DALLE\\Aplicacao.Service\\Aplicacao.Service.csproj": {
+                "projectPath": "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\.NETProject\\AplicacaoBlazorConsumoAPI-DALLE\\Aplicacao.Service\\Aplicacao.Service.csproj"
               }
             }
           }

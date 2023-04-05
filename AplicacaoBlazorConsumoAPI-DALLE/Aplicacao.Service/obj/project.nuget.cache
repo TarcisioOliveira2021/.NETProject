@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hhD/yGpXuQUoVZmDEid2gTmGq/LlYg6gHZrprf+ap2DpNI0hTXn9GSP2fqBYVlDMfsRKQmUDQ0YguASyWS14pQ==",
+  "dgSpecHash": "mUhGDE398aMEBYBdHwWUAxPZfrr0XTKrpdsM8AoUNrFckOlfOfxsf4M6fgBqjIzl+a3ITkAQblC9fe4BzP02IA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\AplicacaoBlazorConsumoAPI-DALLE\\Aplicacao.Service\\Aplicacao.Service.csproj",
+  "projectFilePath": "C:\\Users\\nxzer\\OneDrive\\Área de Trabalho\\.NETProject\\AplicacaoBlazorConsumoAPI-DALLE\\Aplicacao.Service\\Aplicacao.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nxzer\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\nxzer\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
