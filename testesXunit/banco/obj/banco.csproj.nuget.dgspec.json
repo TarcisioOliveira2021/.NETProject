@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\testesXunit\\banco\\banco.csproj": {}
+    "c:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\testesXunit\\banco\\banco.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\testesXunit\\banco\\banco.csproj": {
+    "c:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\testesXunit\\banco\\banco.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\testesXunit\\banco\\banco.csproj",
+        "projectUniqueName": "c:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\testesXunit\\banco\\banco.csproj",
         "projectName": "banco",
-        "projectPath": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\testesXunit\\banco\\banco.csproj",
+        "projectPath": "c:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\testesXunit\\banco\\banco.csproj",
         "packagesPath": "C:\\Users\\Tarcisio.veloso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\testesXunit\\banco\\obj\\",
+        "outputPath": "c:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\testesXunit\\banco\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tarcisio.veloso\\AppData\\Roaming\\NuGet\\NuGet.Config",

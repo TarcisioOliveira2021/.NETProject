@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\testesXunit\\calculos.tests\\calculos.tests.csproj": {}
+    "c:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\testesXunit\\calculos.tests\\calculos.tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\testesXunit\\calculos.tests\\calculos.tests.csproj": {
+    "c:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\testesXunit\\calculos.tests\\calculos.tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\testesXunit\\calculos.tests\\calculos.tests.csproj",
+        "projectUniqueName": "c:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\testesXunit\\calculos.tests\\calculos.tests.csproj",
         "projectName": "calculos.tests",
-        "projectPath": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\testesXunit\\calculos.tests\\calculos.tests.csproj",
+        "projectPath": "c:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\testesXunit\\calculos.tests\\calculos.tests.csproj",
         "packagesPath": "C:\\Users\\Tarcisio.veloso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\testesXunit\\calculos.tests\\obj\\",
+        "outputPath": "c:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\testesXunit\\calculos.tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tarcisio.veloso\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\testesXunit\\calculos\\calculos.csproj": {
-                "projectPath": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\testesXunit\\calculos\\calculos.csproj"
+              "c:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\testesXunit\\calculos\\calculos.csproj": {
+                "projectPath": "c:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\testesXunit\\calculos\\calculos.csproj"
               }
             }
           }
@@ -84,14 +84,14 @@
         }
       }
     },
-    "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\testesXunit\\calculos\\calculos.csproj": {
+    "c:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\testesXunit\\calculos\\calculos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\testesXunit\\calculos\\calculos.csproj",
+        "projectUniqueName": "c:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\testesXunit\\calculos\\calculos.csproj",
         "projectName": "calculos",
-        "projectPath": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\testesXunit\\calculos\\calculos.csproj",
+        "projectPath": "c:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\testesXunit\\calculos\\calculos.csproj",
         "packagesPath": "C:\\Users\\Tarcisio.veloso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\testesXunit\\calculos\\obj\\",
+        "outputPath": "c:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\testesXunit\\calculos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tarcisio.veloso\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1QZF+iA7HBRF0NA7LIOks2V11dNf89k5AULyCHNGHo8YRPaETUkMY0+7guIuw7HV+RiHP9sScLmukZfpN74+zQ==",
+  "dgSpecHash": "IpwqhIhM+StZu9dfpRQOESj3uIvia3cqctkgfPIyZFPLo16HrxP1iu5YFiWiJe96TPUFefWpWeyVrFhvD0mUjQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\testesXunit\\banco.tests\\banco.tests.csproj",
+  "projectFilePath": "c:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\testesXunit\\banco.tests\\banco.tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tarcisio.veloso\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Tarcisio.veloso\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

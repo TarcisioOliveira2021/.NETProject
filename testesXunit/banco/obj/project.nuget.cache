@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7F4LYzs8bYQZl9AJwS7KO9JLejiI94hXLlbfwtuGm02qJL9v0tXDpqr53ESvGdlG8haHWqtslDugIsTdnyPYpA==",
+  "dgSpecHash": "j4YdDx/dIAWJZ5vCe1hX3ScJgkqPpynA68lfLMThxkXrH/oepgpQIzXCuADB8Ye2cz3+p2CDMmmDgYxiZSC1fg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\testesXunit\\banco\\banco.csproj",
+  "projectFilePath": "c:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\testesXunit\\banco\\banco.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

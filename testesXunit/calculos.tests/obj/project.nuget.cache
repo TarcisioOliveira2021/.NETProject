@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KQS91DLpBxPri3/V7v6Vik+UljqYJQeuIrYXmGfGTbYZuaMsPYjGsplkxK/Y7QCbR/E1CT/izUr12eyIS44aRQ==",
+  "dgSpecHash": "pAd/IHp1c2KCb+G1KRqr1ddjt8x0g+sMt1AlscEodZvVHksTvP9f097e15sZ0ojTj+p8rSu3El5EYsDuDFG5Sw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\testesXunit\\calculos.tests\\calculos.tests.csproj",
+  "projectFilePath": "c:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\testesXunit\\calculos.tests\\calculos.tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tarcisio.veloso\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Tarcisio.veloso\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

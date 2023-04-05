@@ -5998,11 +5998,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\testesXunit\\banco.tests\\banco.tests.csproj",
+      "projectUniqueName": "c:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\testesXunit\\banco.tests\\banco.tests.csproj",
       "projectName": "banco.tests",
-      "projectPath": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\testesXunit\\banco.tests\\banco.tests.csproj",
+      "projectPath": "c:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\testesXunit\\banco.tests\\banco.tests.csproj",
       "packagesPath": "C:\\Users\\Tarcisio.veloso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\testesXunit\\banco.tests\\obj\\",
+      "outputPath": "c:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\testesXunit\\banco.tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tarcisio.veloso\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6019,8 +6019,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\testesXunit\\banco\\banco.csproj": {
-              "projectPath": "C:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\testesXunit\\banco\\banco.csproj"
+            "c:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\testesXunit\\banco\\banco.csproj": {
+              "projectPath": "c:\\Users\\Tarcisio.veloso\\Desktop\\.NETProject\\testesXunit\\banco\\banco.csproj"
             }
           }
         }
