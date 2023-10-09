@@ -1,0 +1,15 @@
+C:\Users\Tarcisio.veloso\Desktop\TuplaTesteExemplo\bin\Debug\net6.0\TuplaTesteExemplo.exe
+C:\Users\Tarcisio.veloso\Desktop\TuplaTesteExemplo\bin\Debug\net6.0\TuplaTesteExemplo.deps.json
+C:\Users\Tarcisio.veloso\Desktop\TuplaTesteExemplo\bin\Debug\net6.0\TuplaTesteExemplo.runtimeconfig.json
+C:\Users\Tarcisio.veloso\Desktop\TuplaTesteExemplo\bin\Debug\net6.0\TuplaTesteExemplo.dll
+C:\Users\Tarcisio.veloso\Desktop\TuplaTesteExemplo\bin\Debug\net6.0\TuplaTesteExemplo.pdb
+C:\Users\Tarcisio.veloso\Desktop\TuplaTesteExemplo\obj\Debug\net6.0\TuplaTesteExemplo.csproj.AssemblyReference.cache
+C:\Users\Tarcisio.veloso\Desktop\TuplaTesteExemplo\obj\Debug\net6.0\TuplaTesteExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarcisio.veloso\Desktop\TuplaTesteExemplo\obj\Debug\net6.0\TuplaTesteExemplo.AssemblyInfoInputs.cache
+C:\Users\Tarcisio.veloso\Desktop\TuplaTesteExemplo\obj\Debug\net6.0\TuplaTesteExemplo.AssemblyInfo.cs
+C:\Users\Tarcisio.veloso\Desktop\TuplaTesteExemplo\obj\Debug\net6.0\TuplaTesteExemplo.csproj.CoreCompileInputs.cache
+C:\Users\Tarcisio.veloso\Desktop\TuplaTesteExemplo\obj\Debug\net6.0\TuplaTesteExemplo.dll
+C:\Users\Tarcisio.veloso\Desktop\TuplaTesteExemplo\obj\Debug\net6.0\refint\TuplaTesteExemplo.dll
+C:\Users\Tarcisio.veloso\Desktop\TuplaTesteExemplo\obj\Debug\net6.0\TuplaTesteExemplo.pdb
+C:\Users\Tarcisio.veloso\Desktop\TuplaTesteExemplo\obj\Debug\net6.0\TuplaTesteExemplo.genruntimeconfig.cache
+C:\Users\Tarcisio.veloso\Desktop\TuplaTesteExemplo\obj\Debug\net6.0\ref\TuplaTesteExemplo.dll

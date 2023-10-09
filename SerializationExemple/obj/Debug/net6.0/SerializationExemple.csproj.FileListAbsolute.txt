@@ -1,0 +1,17 @@
+C:\Users\Tarcisio.veloso\Desktop\SerializationExemple\bin\Debug\net6.0\SerializationExemple.exe
+C:\Users\Tarcisio.veloso\Desktop\SerializationExemple\bin\Debug\net6.0\SerializationExemple.deps.json
+C:\Users\Tarcisio.veloso\Desktop\SerializationExemple\bin\Debug\net6.0\SerializationExemple.runtimeconfig.json
+C:\Users\Tarcisio.veloso\Desktop\SerializationExemple\bin\Debug\net6.0\SerializationExemple.dll
+C:\Users\Tarcisio.veloso\Desktop\SerializationExemple\bin\Debug\net6.0\SerializationExemple.pdb
+C:\Users\Tarcisio.veloso\Desktop\SerializationExemple\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Tarcisio.veloso\Desktop\SerializationExemple\obj\Debug\net6.0\SerializationExemple.csproj.AssemblyReference.cache
+C:\Users\Tarcisio.veloso\Desktop\SerializationExemple\obj\Debug\net6.0\SerializationExemple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarcisio.veloso\Desktop\SerializationExemple\obj\Debug\net6.0\SerializationExemple.AssemblyInfoInputs.cache
+C:\Users\Tarcisio.veloso\Desktop\SerializationExemple\obj\Debug\net6.0\SerializationExemple.AssemblyInfo.cs
+C:\Users\Tarcisio.veloso\Desktop\SerializationExemple\obj\Debug\net6.0\SerializationExemple.csproj.CoreCompileInputs.cache
+C:\Users\Tarcisio.veloso\Desktop\SerializationExemple\obj\Debug\net6.0\SerializationExemple.csproj.CopyComplete
+C:\Users\Tarcisio.veloso\Desktop\SerializationExemple\obj\Debug\net6.0\SerializationExemple.dll
+C:\Users\Tarcisio.veloso\Desktop\SerializationExemple\obj\Debug\net6.0\refint\SerializationExemple.dll
+C:\Users\Tarcisio.veloso\Desktop\SerializationExemple\obj\Debug\net6.0\SerializationExemple.pdb
+C:\Users\Tarcisio.veloso\Desktop\SerializationExemple\obj\Debug\net6.0\SerializationExemple.genruntimeconfig.cache
+C:\Users\Tarcisio.veloso\Desktop\SerializationExemple\obj\Debug\net6.0\ref\SerializationExemple.dll
