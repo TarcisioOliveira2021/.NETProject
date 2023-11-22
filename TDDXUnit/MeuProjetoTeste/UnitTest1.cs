@@ -2,7 +2,15 @@ namespace MeuProjetoTeste;
 
 public class UnitTest1
 {
+    private cpf;
+    
+    public void SetupTest()
+    {
+        cpf = "111.111.111-42";
+    }
 
+
+    
     //Passa
     [Fact(DisplayName ="Teste de estrutura AAA")]
     public void TesteEstruturaAAA()
@@ -21,7 +29,7 @@ public class UnitTest1
     public void TesteEstruturaSEVT()
     {
         //Setup        - Preparo
-        string cpf = "111.111.111-42";
+        SetupTest();
         var espected = false;
         //Exercise     - Agir
         var result = ValidadorCpf(cpf);
@@ -37,7 +45,7 @@ public class UnitTest1
         if(cpf != null)
         {
             var ultimoDig  = cpf.Length - 1;
-            return ultimoDig != 7 ? false : true; //Se for diferente de 7 ent„o "cpf errado".
+            return ultimoDig != 7 ? false : true; //Se for diferente de 7 ent√£o "cpf errado".
         } 
         return true;
     }
